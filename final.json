@@ -1,0 +1,6031 @@
+{
+  "11001": {
+    "m19": {
+      "id": "11001",
+      "provincia": "11",
+      "nombre": "Alcalá de los Gazules",
+      "censo": 4360,
+      "escrutado_p": 100,
+      "abstencion": 1042,
+      "abstencion_p": 23.9,
+      "blancos": 11,
+      "blancos_p": 0.34,
+      "nulos": 38,
+      "nulos_p": 1.15,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1006778",
+          "siglas": "PSOE-A",
+          "votos": 1123,
+          "votos_p": 34.24,
+          "seats": 5,
+          "concejales": [
+            "1. Javier Pizarro Ruiz",
+            "2. María Almagro Gámez",
+            "3. Joaquín Jesús Barrera Román",
+            "4. María José Córdoba Salazar",
+            "5. Miguel Ángel Almagro Montes De Oca"
+          ]
+        },
+        {
+          "codigo": "1016792",
+          "siglas": "PP",
+          "votos": 1075,
+          "votos_p": 32.77,
+          "seats": 4,
+          "concejales": [
+            "1. José Carlos Pereira Basilio",
+            "2. Francisco José García López",
+            "3. José Carlos Pazo Domínguez",
+            "4. Rosalía Sánchez Pérez"
+          ]
+        },
+        {
+          "codigo": "1016195",
+          "siglas": "IU-A",
+          "votos": 1071,
+          "votos_p": 32.65,
+          "seats": 4,
+          "concejales": [
+            "1. Antonio Luis García Cabrera",
+            "2. Zulema Sánchez Bazán",
+            "3. Juan Carlos Fernández Luna",
+            "4. Manuela Malla Alcaraz"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11001",
+      "provincia": "11",
+      "nombre": "Alcalá de los Gazules",
+      "censo": 4377,
+      "escrutado_p": 100,
+      "abstencion": 1330,
+      "abstencion_p": 30.39,
+      "blancos": 31,
+      "blancos_p": 1.05,
+      "nulos": 89,
+      "nulos_p": 2.92,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014334",
+          "siglas": "PSOE-A",
+          "votos": 2038,
+          "votos_p": 68.9,
+          "seats": 10
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 482,
+          "votos_p": 16.29,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 407,
+          "votos_p": 13.76,
+          "seats": 1
+        }
+      ]
+    }
+  },
+  "11002": {
+    "m19": {
+      "id": "11002",
+      "provincia": "11",
+      "nombre": "Alcalá del Valle",
+      "censo": 4211,
+      "escrutado_p": 100,
+      "abstencion": 974,
+      "abstencion_p": 23.13,
+      "blancos": 26,
+      "blancos_p": 0.81,
+      "nulos": 41,
+      "nulos_p": 1.27,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1016003",
+          "siglas": "PP",
+          "votos": 816,
+          "votos_p": 25.53,
+          "seats": 4,
+          "concejales": [
+            "1. Alejandro Jiménez García",
+            "2. Juan Carlos Morilla Romero",
+            "3. Juan García López",
+            "4. Virginia Ariza García"
+          ]
+        },
+        {
+          "codigo": "1022759",
+          "siglas": "A.S.T.",
+          "votos": 796,
+          "votos_p": 24.91,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Manuel Moreno Redondo",
+            "2. María Yaritxa Moreno Hinojosa",
+            "3. Aida Casalvasquez Lozano"
+          ]
+        },
+        {
+          "codigo": "1000080",
+          "siglas": "PSOE-A",
+          "votos": 781,
+          "votos_p": 24.44,
+          "seats": 3,
+          "concejales": [
+            "1. José Antonio Narváez García",
+            "2. Rosa Romero Becerra",
+            "3. Antonio Dorado Olmo"
+          ]
+        },
+        {
+          "codigo": "1017733",
+          "siglas": "A.A.",
+          "votos": 777,
+          "votos_p": 24.31,
+          "seats": 3,
+          "concejales": [
+            "1. Rafael Aguilera Martínez",
+            "2. Remedios Romero Marín",
+            "3. Yonatan Moncada Moreno"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11002",
+      "provincia": "11",
+      "nombre": "Alcalá del Valle",
+      "censo": 4312,
+      "escrutado_p": 100,
+      "abstencion": 581,
+      "abstencion_p": 13.47,
+      "blancos": 27,
+      "blancos_p": 0.73,
+      "nulos": 53,
+      "nulos_p": 1.42,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 2001,
+          "votos_p": 54.4,
+          "seats": 7
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 1626,
+          "votos_p": 44.21,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 24,
+          "votos_p": 0.65,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11003": {
+    "m19": {
+      "id": "11003",
+      "provincia": "11",
+      "nombre": "Algar",
+      "censo": 1239,
+      "escrutado_p": 100,
+      "abstencion": 314,
+      "abstencion_p": 25.34,
+      "blancos": 17,
+      "blancos_p": 1.84,
+      "nulos": 2,
+      "nulos_p": 0.22,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "1016412",
+          "siglas": "A.A.",
+          "votos": 325,
+          "votos_p": 35.21,
+          "seats": 3,
+          "concejales": [
+            "1. Mario Venegas Cantos",
+            "2. María Isabel García Ríos",
+            "3. Juan Manuel Contreras Barea"
+          ]
+        },
+        {
+          "codigo": "1000304",
+          "siglas": "PSOE-A",
+          "votos": 299,
+          "votos_p": 32.39,
+          "seats": 3,
+          "concejales": [
+            "1. María José Villagrán Richarte",
+            "2. Custodio Andrades Sánchez",
+            "3. María Del Pilar Vázquez Luna"
+          ]
+        },
+        {
+          "codigo": "1012430",
+          "siglas": "PP",
+          "votos": 282,
+          "votos_p": 30.55,
+          "seats": 3,
+          "concejales": [
+            "1. José Carlos Sánchez Barea",
+            "2. Juan Manuel Guerra Román",
+            "3. Noelia Pérez Ríos"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11003",
+      "provincia": "11",
+      "nombre": "Algar",
+      "censo": 1288,
+      "escrutado_p": 100,
+      "abstencion": 264,
+      "abstencion_p": 20.5,
+      "blancos": 5,
+      "blancos_p": 0.49,
+      "nulos": 6,
+      "nulos_p": 0.59,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 383,
+          "votos_p": 37.62,
+          "seats": 4
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 367,
+          "votos_p": 36.05,
+          "seats": 3
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 157,
+          "votos_p": 15.42,
+          "seats": 1
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 106,
+          "votos_p": 10.41,
+          "seats": 1
+        }
+      ]
+    }
+  },
+  "11004": {
+    "m19": {
+      "id": "11004",
+      "provincia": "11",
+      "nombre": "Algeciras",
+      "censo": 89787,
+      "escrutado_p": 89.16,
+      "abstencion": 19202,
+      "abstencion_p": 23.99,
+      "blancos": 820,
+      "blancos_p": 1.37,
+      "nulos": 871,
+      "nulos_p": 1.43,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "1002810",
+          "siglas": "100x100",
+          "votos": 5527,
+          "votos_p": 9.21,
+          "seats": 3,
+          "concejales": [
+            "1. Manuel Barbera Liñan",
+            "2. Ignacio De Castro García",
+            "3. Juan Fernando Esteban Rubio"
+          ]
+        },
+        {
+          "codigo": "1006626",
+          "siglas": "A.A.",
+          "votos": 5485,
+          "votos_p": 9.14,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Javier Viso Pérez",
+            "2. Ana María Ortíz Velasco",
+            "3. Alejandro Gallardo Gaitán"
+          ]
+        },
+        {
+          "codigo": "1021666",
+          "siglas": "ENTRA",
+          "votos": 5481,
+          "votos_p": 9.14,
+          "seats": 3,
+          "concejales": [
+            "1. María José Jiménez Izquierdo",
+            "2. José Miguel Ahumada Rodríguez",
+            "3. Francisco Javier Soler Morillo"
+          ]
+        },
+        {
+          "codigo": "1016852",
+          "siglas": "VOX",
+          "votos": 5442,
+          "votos_p": 9.07,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Gallardo Tejeda",
+            "2. Jorge Domínguez Clavijo",
+            "3. Davinia Ribeiro Gómez"
+          ]
+        },
+        {
+          "codigo": "1000335",
+          "siglas": "L.V.A.",
+          "votos": 5395,
+          "votos_p": 8.99,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Pedro Ávila Gavira",
+            "2. Marina Isabel Vázquez Navas",
+            "3. Alberto Mesa Cordón"
+          ]
+        },
+        {
+          "codigo": "1000204",
+          "siglas": "PSOE-A",
+          "votos": 5388,
+          "votos_p": 8.98,
+          "seats": 2,
+          "concejales": [
+            "1. Juan Miguel Lozano Domínguez",
+            "2. María Esperanza Pérez Expósito"
+          ]
+        },
+        {
+          "codigo": "1016181",
+          "siglas": "L",
+          "votos": 5332,
+          "votos_p": 8.89,
+          "seats": 2,
+          "concejales": [
+            "1. Alberto Antonio Pérez Mesa",
+            "2. Isabel María Torres Martínez"
+          ]
+        },
+        {
+          "codigo": "1008727",
+          "siglas": "PP",
+          "votos": 5331,
+          "votos_p": 8.89,
+          "seats": 2,
+          "concejales": [
+            "1. José Ignacio Landaluce Calleja",
+            "2. Jacinto Muñoz Madrid"
+          ]
+        },
+        {
+          "codigo": "1015496",
+          "siglas": "Cs",
+          "votos": 5279,
+          "votos_p": 8.8,
+          "seats": 2,
+          "concejales": [
+            "1. Sergio Pelayo Jimeno",
+            "2. Montserrat Barroso Macías"
+          ]
+        },
+        {
+          "codigo": "1022328",
+          "siglas": "PRUNE",
+          "votos": 5270,
+          "votos_p": 8.79,
+          "seats": 2,
+          "concejales": [
+            "1. Dris Mohamed Amar",
+            "2. María Custodio Rosado"
+          ]
+        },
+        {
+          "codigo": "1008041",
+          "siglas": "ALTER",
+          "votos": 5232,
+          "votos_p": 8.72,
+          "seats": 2,
+          "concejales": [
+            "1. Antonio Martín Medina",
+            "2. Marina López Domínguez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11004",
+      "provincia": "11",
+      "nombre": "Algeciras",
+      "censo": 88543,
+      "escrutado_p": 100,
+      "abstencion": 47992,
+      "abstencion_p": 54.2,
+      "blancos": 564,
+      "blancos_p": 1.4,
+      "nulos": 275,
+      "nulos_p": 0.68,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 17675,
+          "votos_p": 43.88,
+          "seats": 14
+        },
+        {
+          "codigo": "C014327",
+          "siglas": "PSOE-A",
+          "votos": 8683,
+          "votos_p": 21.56,
+          "seats": 6
+        },
+        {
+          "codigo": "C010131",
+          "siglas": "Sí",
+          "votos": 4788,
+          "votos_p": 11.89,
+          "seats": 3
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 2990,
+          "votos_p": 7.42,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 2913,
+          "votos_p": 7.23,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 1359,
+          "votos_p": 3.37,
+          "seats": 0
+        },
+        {
+          "codigo": "C010012",
+          "siglas": "AC-ALG",
+          "votos": 877,
+          "votos_p": 2.18,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 427,
+          "votos_p": 1.06,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11005": {
+    "m19": {
+      "id": "11005",
+      "provincia": "11",
+      "nombre": "Algodonales",
+      "censo": 4548,
+      "escrutado_p": 100,
+      "abstencion": 1005,
+      "abstencion_p": 22.1,
+      "blancos": 50,
+      "blancos_p": 1.44,
+      "nulos": 74,
+      "nulos_p": 2.09,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1000416",
+          "siglas": "PSOE-A",
+          "votos": 1178,
+          "votos_p": 33.96,
+          "seats": 5,
+          "concejales": [
+            "1. Ramon Ángel Acuña Racero",
+            "2. Almudena García Giron",
+            "3. Sixto José Canto Galvan",
+            "4. María Galindo Rodríguez",
+            "5. Antonio Samuel Acuña Racero"
+          ]
+        },
+        {
+          "codigo": "1008719",
+          "siglas": "PP",
+          "votos": 1134,
+          "votos_p": 32.69,
+          "seats": 4,
+          "concejales": [
+            "1. Raúl Ángel Román Holgado",
+            "2. Elisa Fernández Lozano",
+            "3. María De Los Ángeles Morales Pérez",
+            "4. Alfredo Moreno Morales"
+          ]
+        },
+        {
+          "codigo": "1015037",
+          "siglas": "A.A.",
+          "votos": 1107,
+          "votos_p": 31.91,
+          "seats": 4,
+          "concejales": [
+            "1. Tomas Torralba Vázquez",
+            "2. Jessica Jiménez Iglesias",
+            "3. Jorge Rodríguez Flores",
+            "4. Ana Rodríguez Toro"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11005",
+      "provincia": "11",
+      "nombre": "Algodonales",
+      "censo": 4612,
+      "escrutado_p": 100,
+      "abstencion": 1668,
+      "abstencion_p": 36.17,
+      "blancos": 51,
+      "blancos_p": 1.78,
+      "nulos": 72,
+      "nulos_p": 2.45,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 1479,
+          "votos_p": 51.5,
+          "seats": 7
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 677,
+          "votos_p": 23.57,
+          "seats": 3
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 665,
+          "votos_p": 23.15,
+          "seats": 3
+        }
+      ]
+    }
+  },
+  "11006": {
+    "m19": {
+      "id": "11006",
+      "provincia": "11",
+      "nombre": "Arcos de la Frontera",
+      "censo": 24617,
+      "escrutado_p": 86.46,
+      "abstencion": 5062,
+      "abstencion_p": 23.78,
+      "blancos": 252,
+      "blancos_p": 1.57,
+      "nulos": 203,
+      "nulos_p": 1.25,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1012259",
+          "siglas": "PP",
+          "votos": 2308,
+          "votos_p": 14.41,
+          "seats": 3,
+          "concejales": [
+            "1. Domingo Jesús González Gil",
+            "2. Oliver Verhoeven Fernández",
+            "3. Lidia Morales Ramírez (independiente)"
+          ]
+        },
+        {
+          "codigo": "1021303",
+          "siglas": "PSOE-A",
+          "votos": 2290,
+          "votos_p": 14.3,
+          "seats": 3,
+          "concejales": [
+            "1. Isidoro Gambin Jaén",
+            "2. María José González Peña",
+            "3. Jesús Merino Carrera (independiente)"
+          ]
+        },
+        {
+          "codigo": "1019258",
+          "siglas": "VOX",
+          "votos": 2258,
+          "votos_p": 14.1,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Palomar García",
+            "2. Pastora Perdigones Asencio",
+            "3. Miriam Fernández Vázquez"
+          ]
+        },
+        {
+          "codigo": "1000838",
+          "siglas": "AI-Pro",
+          "votos": 2252,
+          "votos_p": 14.06,
+          "seats": 3,
+          "concejales": [
+            "1. Leopoldo Pérez Capella",
+            "2. Manuel Erdozain Vega",
+            "3. María Del Loreto Rosa Orellana"
+          ]
+        },
+        {
+          "codigo": "1021795",
+          "siglas": "AxSí",
+          "votos": 2251,
+          "votos_p": 14.05,
+          "seats": 3,
+          "concejales": [
+            "1. José Antonio Saborido Garrido",
+            "2. Antonia García Marín",
+            "3. Juan De Dios Segovia BarRíos"
+          ]
+        },
+        {
+          "codigo": "1014961",
+          "siglas": "A.A.",
+          "votos": 2207,
+          "votos_p": 13.78,
+          "seats": 3,
+          "concejales": [
+            "1. José Luis Hueso Llamas",
+            "2. Miguel Ángel Ortega Domínguez",
+            "3. María Esther Orobengoa López (independiente)"
+          ]
+        },
+        {
+          "codigo": "1019345",
+          "siglas": "Cs",
+          "votos": 2200,
+          "votos_p": 13.73,
+          "seats": 3,
+          "concejales": [
+            "1. Sonia Álvarez Ruiz",
+            "2. Juan Antonio Sánchez Moreno",
+            "3. Isaac Manuel Gil Márquez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11006",
+      "provincia": "11",
+      "nombre": "Arcos de la Frontera",
+      "censo": 24554,
+      "escrutado_p": 100,
+      "abstencion": 8485,
+      "abstencion_p": 34.56,
+      "blancos": 185,
+      "blancos_p": 1.16,
+      "nulos": 150,
+      "nulos_p": 0.93,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 6256,
+          "votos_p": 39.3,
+          "seats": 10
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 4132,
+          "votos_p": 25.96,
+          "seats": 6
+        },
+        {
+          "codigo": "C010912",
+          "siglas": "Ai-Pro",
+          "votos": 2706,
+          "votos_p": 17,
+          "seats": 4
+        },
+        {
+          "codigo": "C011036",
+          "siglas": "EnComún",
+          "votos": 1075,
+          "votos_p": 6.75,
+          "seats": 1
+        },
+        {
+          "codigo": "C014238",
+          "siglas": "VEN",
+          "votos": 761,
+          "votos_p": 4.78,
+          "seats": 0
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 644,
+          "votos_p": 4.05,
+          "seats": 0
+        },
+        {
+          "codigo": "C014097",
+          "siglas": "PA",
+          "votos": 160,
+          "votos_p": 1.01,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11007": {
+    "m19": {
+      "id": "11007",
+      "provincia": "11",
+      "nombre": "Barbate",
+      "censo": 18135,
+      "escrutado_p": 95.99,
+      "abstencion": 4219,
+      "abstencion_p": 24.24,
+      "blancos": 185,
+      "blancos_p": 1.42,
+      "nulos": 129,
+      "nulos_p": 0.98,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1005133",
+          "siglas": "AxSí",
+          "votos": 1897,
+          "votos_p": 14.53,
+          "seats": 3,
+          "concejales": [
+            "1. Miguel Francisco Molina Chamorro",
+            "2. Javier Rodríguez Cabeza",
+            "3. Ana Pérez Aragón"
+          ]
+        },
+        {
+          "codigo": "1004393",
+          "siglas": "PP",
+          "votos": 1890,
+          "votos_p": 14.47,
+          "seats": 3,
+          "concejales": [
+            "1. Carlos Llaves Ruiz",
+            "2. Ana Isabel Moreno Jiménez",
+            "3. Francisco Ponce Pérez"
+          ]
+        },
+        {
+          "codigo": "1006472",
+          "siglas": "IU-A",
+          "votos": 1841,
+          "votos_p": 14.1,
+          "seats": 3,
+          "concejales": [
+            "1. Luis Francisco García Perulles",
+            "2. Gemma Salvatierra Malia",
+            "3. Gema Martín De Arriba"
+          ]
+        },
+        {
+          "codigo": "1004183",
+          "siglas": "G.D.Z.",
+          "votos": 1839,
+          "votos_p": 14.08,
+          "seats": 3,
+          "concejales": [
+            "1. Agustín Conejo Medina",
+            "2. Antonio Jesús Guerrero Capilla",
+            "3. Sergio González Junquera"
+          ]
+        },
+        {
+          "codigo": "1021757",
+          "siglas": "Cs",
+          "votos": 1836,
+          "votos_p": 14.06,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio López Castañeda",
+            "2. Rocio Guerrero Jodar",
+            "3. Francisco González Reyes"
+          ]
+        },
+        {
+          "codigo": "1004088",
+          "siglas": "PSOE-A",
+          "votos": 1811,
+          "votos_p": 13.87,
+          "seats": 3,
+          "concejales": [
+            "1. María Dolores Varo Malia",
+            "2. Jesús Alba Manzanares",
+            "3. Montserrat Tamayo Rivera"
+          ]
+        },
+        {
+          "codigo": "1025517",
+          "siglas": "VOX",
+          "votos": 1760,
+          "votos_p": 13.48,
+          "seats": 3,
+          "concejales": [
+            "1. Andrea Pérez Crespo",
+            "2. Ismael Jiménez López",
+            "3. José María Parra Fernández"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11007",
+      "provincia": "11",
+      "nombre": "Barbate",
+      "censo": 18134,
+      "escrutado_p": 100,
+      "abstencion": 7322,
+      "abstencion_p": 40.38,
+      "blancos": 241,
+      "blancos_p": 2.28,
+      "nulos": 254,
+      "nulos_p": 2.35,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 3628,
+          "votos_p": 34.36,
+          "seats": 8
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 2037,
+          "votos_p": 19.29,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1848,
+          "votos_p": 17.5,
+          "seats": 4
+        },
+        {
+          "codigo": "C014849",
+          "siglas": "SOMOS BARBA",
+          "votos": 1301,
+          "votos_p": 12.32,
+          "seats": 3
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 779,
+          "votos_p": 7.38,
+          "seats": 1
+        },
+        {
+          "codigo": "C012521",
+          "siglas": "G.D.Z.",
+          "votos": 326,
+          "votos_p": 3.09,
+          "seats": 0
+        },
+        {
+          "codigo": "C014115",
+          "siglas": "PBU",
+          "votos": 201,
+          "votos_p": 1.9,
+          "seats": 0
+        },
+        {
+          "codigo": "C010672",
+          "siglas": "A.L.B.",
+          "votos": 108,
+          "votos_p": 1.02,
+          "seats": 0
+        },
+        {
+          "codigo": "C013892",
+          "siglas": "MASIBAR",
+          "votos": 89,
+          "votos_p": 0.84,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11008": {
+    "m19": {
+      "id": "11008",
+      "provincia": "11",
+      "nombre": "Barrios, Los",
+      "censo": 17983,
+      "escrutado_p": 88.06,
+      "abstencion": 3679,
+      "abstencion_p": 23.23,
+      "blancos": 133,
+      "blancos_p": 1.11,
+      "nulos": 165,
+      "nulos_p": 1.36,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1015717",
+          "siglas": "Cs",
+          "votos": 2448,
+          "votos_p": 20.42,
+          "seats": 5,
+          "concejales": [
+            "1. Pedro González Muñoz",
+            "2. Cristina Silva Espinosa",
+            "3. Manuel Jairo Correro Calvente",
+            "4. Gerardo Carretero Ramos",
+            "5. Jesica Del Pilar Duarte Márquez"
+          ]
+        },
+        {
+          "codigo": "1000451",
+          "siglas": "PSOE-A",
+          "votos": 2364,
+          "votos_p": 19.71,
+          "seats": 4,
+          "concejales": [
+            "1. Salvador Damián Puerto Aguilar",
+            "2. Natalia Begoña Gutiérrez Salazar",
+            "3. Daniel Perea González",
+            "4. Aurelia Ruiz Espinosa"
+          ]
+        },
+        {
+          "codigo": "1006036",
+          "siglas": "A.A.",
+          "votos": 2351,
+          "votos_p": 19.61,
+          "seats": 4,
+          "concejales": [
+            "1. Rubén Castillo Delgado",
+            "2. Cristina Maldonado Quirós",
+            "3. Rafael Alberto Oliva Orbello",
+            "4. Silvia Gómez Murillo"
+          ]
+        },
+        {
+          "codigo": "1000576",
+          "siglas": "100x100",
+          "votos": 2351,
+          "votos_p": 19.61,
+          "seats": 4,
+          "concejales": [
+            "1. Miguel Fermín Alconchel Jiménez",
+            "2. Sara Lobato Herrera",
+            "3. José Antonio Gómez Guerrero",
+            "4. María De Los Ángeles Gallego Gavira"
+          ]
+        },
+        {
+          "codigo": "1006390",
+          "siglas": "PP",
+          "votos": 2344,
+          "votos_p": 19.55,
+          "seats": 4,
+          "concejales": [
+            "1. David Gil Sánchez",
+            "2. Pablo García Sánchez",
+            "3. María Isabel Correro Martín",
+            "4. Antonio Domínguez Dávila"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11008",
+      "provincia": "11",
+      "nombre": "Los Barrios",
+      "censo": 17490,
+      "escrutado_p": 100,
+      "abstencion": 7025,
+      "abstencion_p": 40.17,
+      "blancos": 143,
+      "blancos_p": 1.38,
+      "nulos": 113,
+      "nulos_p": 1.08,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 3986,
+          "votos_p": 38.5,
+          "seats": 10
+        },
+        {
+          "codigo": "C014333",
+          "siglas": "PSOE-A",
+          "votos": 2424,
+          "votos_p": 23.42,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1438,
+          "votos_p": 13.89,
+          "seats": 3
+        },
+        {
+          "codigo": "C012944",
+          "siglas": "P.I.BA.",
+          "votos": 772,
+          "votos_p": 7.46,
+          "seats": 1
+        },
+        {
+          "codigo": "C010271",
+          "siglas": "Sí",
+          "votos": 554,
+          "votos_p": 5.35,
+          "seats": 1
+        },
+        {
+          "codigo": "C014821",
+          "siglas": "SCLB",
+          "votos": 491,
+          "votos_p": 4.74,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 289,
+          "votos_p": 2.79,
+          "seats": 0
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 255,
+          "votos_p": 2.46,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11009": {
+    "m19": {
+      "id": "11009",
+      "provincia": "11",
+      "nombre": "Benaocaz",
+      "censo": 590,
+      "escrutado_p": 100,
+      "abstencion": 155,
+      "abstencion_p": 26.27,
+      "blancos": 8,
+      "blancos_p": 1.86,
+      "nulos": 4,
+      "nulos_p": 0.92,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "1000219",
+          "siglas": "PSOE-A",
+          "votos": 114,
+          "votos_p": 26.45,
+          "seats": 2,
+          "concejales": [
+            "1. Antonio Venegas Caro",
+            "2. Sagrario Jiménez Reguera"
+          ]
+        },
+        {
+          "codigo": "1020244",
+          "siglas": "PP",
+          "votos": 113,
+          "votos_p": 26.22,
+          "seats": 2,
+          "concejales": [
+            "1. Ana Belen García Bohorquez",
+            "2. Antonio Abad Lamela Ramírez"
+          ]
+        },
+        {
+          "codigo": "1020123",
+          "siglas": "Cs",
+          "votos": 101,
+          "votos_p": 23.43,
+          "seats": 2,
+          "concejales": [
+            "1. Olivia Venegas Carrasco",
+            "2. Isabel Ramírez Ríos"
+          ]
+        },
+        {
+          "codigo": "1023458",
+          "siglas": "A.A.",
+          "votos": 95,
+          "votos_p": 22.04,
+          "seats": 1,
+          "concejales": [
+            "1. Josefa Morales Giron"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11009",
+      "provincia": "11",
+      "nombre": "Benaocaz",
+      "censo": 627,
+      "escrutado_p": 100,
+      "abstencion": 149,
+      "abstencion_p": 23.76,
+      "blancos": 9,
+      "blancos_p": 1.95,
+      "nulos": 16,
+      "nulos_p": 3.35,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 221,
+          "votos_p": 47.84,
+          "seats": 4
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 210,
+          "votos_p": 45.45,
+          "seats": 3
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 22,
+          "votos_p": 4.76,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11010": {
+    "m19": {
+      "id": "11010",
+      "provincia": "11",
+      "nombre": "Bornos",
+      "censo": 6352,
+      "escrutado_p": 100,
+      "abstencion": 1532,
+      "abstencion_p": 24.12,
+      "blancos": 62,
+      "blancos_p": 1.31,
+      "nulos": 84,
+      "nulos_p": 1.74,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1016471",
+          "siglas": "A.A.",
+          "votos": 1585,
+          "votos_p": 33.47,
+          "seats": 5,
+          "concejales": [
+            "1. Hugo Palomares Beltrán",
+            "2. Noemí Palomares Gordillo",
+            "3. Jesús Sánchez Castro",
+            "4. María José Lugo Baena",
+            "5. Ana Camas Núñez"
+          ]
+        },
+        {
+          "codigo": "1019667",
+          "siglas": "PP",
+          "votos": 1546,
+          "votos_p": 32.64,
+          "seats": 4,
+          "concejales": [
+            "1. José Ángel Muñoz Pozo",
+            "2. Rocio Moreno Castro",
+            "3. Manuela Delgado Abujas",
+            "4. Daniel Alejandro Parra Rodríguez"
+          ]
+        },
+        {
+          "codigo": "1027311",
+          "siglas": "PSOE-A",
+          "votos": 1543,
+          "votos_p": 32.58,
+          "seats": 4,
+          "concejales": [
+            "1. Miguel Ángel Pérez Bellido",
+            "2. María Auxiliadora Vega García",
+            "3. Manuel Herrera Sánchez",
+            "4. Dolores Abadias García"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11010",
+      "provincia": "11",
+      "nombre": "Bornos",
+      "censo": 6440,
+      "escrutado_p": 100,
+      "abstencion": 2101,
+      "abstencion_p": 32.62,
+      "blancos": 88,
+      "blancos_p": 2.07,
+      "nulos": 87,
+      "nulos_p": 2.01,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1985,
+          "votos_p": 46.68,
+          "seats": 7
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 1357,
+          "votos_p": 31.91,
+          "seats": 4
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 822,
+          "votos_p": 19.33,
+          "seats": 2
+        }
+      ]
+    }
+  },
+  "11011": {
+    "m19": {
+      "id": "11011",
+      "provincia": "11",
+      "nombre": "Bosque, El",
+      "censo": 1734,
+      "escrutado_p": 100,
+      "abstencion": 356,
+      "abstencion_p": 20.53,
+      "blancos": 13,
+      "blancos_p": 0.96,
+      "nulos": 29,
+      "nulos_p": 2.1,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1018882",
+          "siglas": "VOX",
+          "votos": 285,
+          "votos_p": 21.13,
+          "seats": 3,
+          "concejales": [
+            "1. José Salguero Pozo",
+            "2. Atanasio Nuñez Gil",
+            "3. José Miguel Mateos Hernández"
+          ]
+        },
+        {
+          "codigo": "1000425",
+          "siglas": "PSOE-A",
+          "votos": 285,
+          "votos_p": 21.13,
+          "seats": 2,
+          "concejales": [
+            "1. Pilar García Carrasco",
+            "2. Antonio David Gómez Pérez"
+          ]
+        },
+        {
+          "codigo": "1023267",
+          "siglas": "A.A.",
+          "votos": 265,
+          "votos_p": 19.64,
+          "seats": 2,
+          "concejales": [
+            "1. Ana Vázquez Sánchez",
+            "2. José María Gómez Martín"
+          ]
+        },
+        {
+          "codigo": "1015248",
+          "siglas": "PP",
+          "votos": 255,
+          "votos_p": 18.9,
+          "seats": 2,
+          "concejales": [
+            "1. Inmaculada Gil López",
+            "2. José García Carrasco"
+          ]
+        },
+        {
+          "codigo": "1008935",
+          "siglas": "AxSí",
+          "votos": 246,
+          "votos_p": 18.24,
+          "seats": 2,
+          "concejales": [
+            "1. Miguel Hinojo Olmedo",
+            "2. Antonio Acosta Fernández"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11011",
+      "provincia": "11",
+      "nombre": "El Bosque",
+      "censo": 1669,
+      "escrutado_p": 100,
+      "abstencion": 387,
+      "abstencion_p": 23.19,
+      "blancos": 17,
+      "blancos_p": 1.36,
+      "nulos": 32,
+      "nulos_p": 2.5,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 621,
+          "votos_p": 49.68,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 277,
+          "votos_p": 22.16,
+          "seats": 3
+        },
+        {
+          "codigo": "C012375",
+          "siglas": "G",
+          "votos": 138,
+          "votos_p": 11.04,
+          "seats": 1
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 122,
+          "votos_p": 9.76,
+          "seats": 1
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 75,
+          "votos_p": 6,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11012": {
+    "m19": {
+      "id": "11012",
+      "provincia": "11",
+      "nombre": "Cádiz",
+      "censo": 97696,
+      "escrutado_p": 89.89,
+      "abstencion": 20580,
+      "abstencion_p": 23.43,
+      "blancos": 830,
+      "blancos_p": 1.25,
+      "nulos": 854,
+      "nulos_p": 1.27,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "1016655",
+          "siglas": "VOX",
+          "votos": 8748,
+          "votos_p": 13.18,
+          "seats": 4,
+          "concejales": [
+            "1. Ana Peral Pérez",
+            "2. Mikel Bollar Sánchez",
+            "3. Pablo Santo De La Fuente",
+            "4. Juan José Delgado Carrasco"
+          ]
+        },
+        {
+          "codigo": "1025492",
+          "siglas": "PACMA",
+          "votos": 8243,
+          "votos_p": 12.42,
+          "seats": 4,
+          "concejales": [
+            "1. Eduardo Jesús Rovira Del Rio",
+            "2. María Isabel De Montalban Podadera",
+            "3. Marcelino Lainez De Los Reyes",
+            "4. Alba Luna Rodríguez"
+          ]
+        },
+        {
+          "codigo": "1016034",
+          "siglas": "A.A.",
+          "votos": 8136,
+          "votos_p": 12.26,
+          "seats": 4,
+          "concejales": [
+            "1. José María González Santos Kichi",
+            "2. Ana Isabel Fernández Garron",
+            "3. Martín Vila Pérez",
+            "4. Lorena Garron Rincon"
+          ]
+        },
+        {
+          "codigo": "1017059",
+          "siglas": "PUM+J",
+          "votos": 8097,
+          "votos_p": 12.2,
+          "seats": 3,
+          "concejales": [
+            "1. Guillermo Sánchez De Cos Suarez",
+            "2. María Rosa Sánchez Luque",
+            "3. Gabriel Lujan Marco"
+          ]
+        },
+        {
+          "codigo": "1015769",
+          "siglas": "PSOE-A",
+          "votos": 8095,
+          "votos_p": 12.19,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Matias González Pérez",
+            "2. María José Rodríguez Vega",
+            "3. Oscar Manuel Torres León"
+          ]
+        },
+        {
+          "codigo": "1015125",
+          "siglas": "PP",
+          "votos": 8090,
+          "votos_p": 12.19,
+          "seats": 3,
+          "concejales": [
+            "1. Juan José Ortiz Quevedo",
+            "2. José Manuel Cossi González",
+            "3. María Teresa González García-negrotto (independiente)"
+          ]
+        },
+        {
+          "codigo": "1025769",
+          "siglas": "ALTER",
+          "votos": 8078,
+          "votos_p": 12.17,
+          "seats": 3,
+          "concejales": [
+            "1. Sebastian Terrada Galan",
+            "2. María Llul Muñoz",
+            "3. María José Ruiz Bustillo"
+          ]
+        },
+        {
+          "codigo": "1016410",
+          "siglas": "Cs",
+          "votos": 8072,
+          "votos_p": 12.16,
+          "seats": 3,
+          "concejales": [
+            "1. Domingo Villero Carro",
+            "2. Lucrecia María Valverde Lasanta",
+            "3. María Carmen Fidalgo Campaña"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11012",
+      "provincia": "11",
+      "nombre": "Cádiz",
+      "censo": 101439,
+      "escrutado_p": 100,
+      "abstencion": 35257,
+      "abstencion_p": 34.76,
+      "blancos": 557,
+      "blancos_p": 0.85,
+      "nulos": 405,
+      "nulos_p": 0.61,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 22261,
+          "votos_p": 33.84,
+          "seats": 10
+        },
+        {
+          "codigo": "C014558",
+          "siglas": "Sí",
+          "votos": 18342,
+          "votos_p": 27.89,
+          "seats": 8
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 11393,
+          "votos_p": 17.32,
+          "seats": 5
+        },
+        {
+          "codigo": "C012338",
+          "siglas": "GANAR",
+          "votos": 5528,
+          "votos_p": 8.4,
+          "seats": 2
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 4705,
+          "votos_p": 7.15,
+          "seats": 2
+        },
+        {
+          "codigo": "C014103",
+          "siglas": "PACMA",
+          "votos": 1182,
+          "votos_p": 1.8,
+          "seats": 0
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 907,
+          "votos_p": 1.38,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 715,
+          "votos_p": 1.09,
+          "seats": 0
+        },
+        {
+          "codigo": "C015373",
+          "siglas": "VOX",
+          "votos": 187,
+          "votos_p": 0.28,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11013": {
+    "m19": {
+      "id": "11013",
+      "provincia": "11",
+      "nombre": "Castellar de la Frontera",
+      "censo": 2386,
+      "escrutado_p": 100,
+      "abstencion": 554,
+      "abstencion_p": 23.22,
+      "blancos": 39,
+      "blancos_p": 2.16,
+      "nulos": 28,
+      "nulos_p": 1.53,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1016347",
+          "siglas": "PSOE-A",
+          "votos": 612,
+          "votos_p": 33.92,
+          "seats": 4,
+          "concejales": [
+            "1. Adrian Vaca Carrillo",
+            "2. Victoria Eugenia González Salas",
+            "3. Francisco Vaca García",
+            "4. Tamara Trujillo Ojeda"
+          ]
+        },
+        {
+          "codigo": "1016577",
+          "siglas": "PP",
+          "votos": 597,
+          "votos_p": 33.09,
+          "seats": 4,
+          "concejales": [
+            "1. María Pilar Lobato Carrion",
+            "2. María Del Carmen Mendoza Carrasco",
+            "3. María Macarena Mescua Carrion",
+            "4. Sthephen James Jameson"
+          ]
+        },
+        {
+          "codigo": "1017217",
+          "siglas": "IU-A",
+          "votos": 556,
+          "votos_p": 30.82,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Casanova Correa",
+            "2. Paloma Delgado Jiménez",
+            "3. Salvador Diaz Nuñez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11013",
+      "provincia": "11",
+      "nombre": "Castellar de la Frontera",
+      "censo": 2366,
+      "escrutado_p": 100,
+      "abstencion": 460,
+      "abstencion_p": 19.44,
+      "blancos": 19,
+      "blancos_p": 1.01,
+      "nulos": 31,
+      "nulos_p": 1.63,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 800,
+          "votos_p": 42.67,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 792,
+          "votos_p": 42.24,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 240,
+          "votos_p": 12.8,
+          "seats": 1
+        },
+        {
+          "codigo": "C014268",
+          "siglas": "PxL",
+          "votos": 24,
+          "votos_p": 1.28,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11014": {
+    "m19": {
+      "id": "11014",
+      "provincia": "11",
+      "nombre": "Conil de la Frontera",
+      "censo": 17539,
+      "escrutado_p": 100,
+      "abstencion": 4275,
+      "abstencion_p": 24.37,
+      "blancos": 133,
+      "blancos_p": 1.01,
+      "nulos": 139,
+      "nulos_p": 1.05,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1021104",
+          "siglas": "Cs",
+          "votos": 2639,
+          "votos_p": 20.11,
+          "seats": 5,
+          "concejales": [
+            "1. Francisco Garrido Cañete",
+            "2. María Josefa Jiménez García",
+            "3. Fernando Morillas García",
+            "4. Yolanda Diago Castellano",
+            "5. Sara María González Zapatero"
+          ]
+        },
+        {
+          "codigo": "1002569",
+          "siglas": "PSOE-A",
+          "votos": 2624,
+          "votos_p": 19.99,
+          "seats": 4,
+          "concejales": [
+            "1. María Del Carmen Sánchez Muñoz",
+            "2. Joaquín Ruz Ramírez",
+            "3. Laura Sánchez Muñoz",
+            "4. Miguel Emiliano Rodríguez Muñoz"
+          ]
+        },
+        {
+          "codigo": "1008152",
+          "siglas": "IU-A",
+          "votos": 2613,
+          "votos_p": 19.91,
+          "seats": 4,
+          "concejales": [
+            "1. Juan Manuel Bermúdez Escamez",
+            "2. María Del Carmen García Caro",
+            "3. David Tamayo Orden",
+            "4. María Del Carmen Mendoza Heredia"
+          ]
+        },
+        {
+          "codigo": "1015617",
+          "siglas": "PP",
+          "votos": 2601,
+          "votos_p": 19.82,
+          "seats": 4,
+          "concejales": [
+            "1. Antonio Jesús Aragón Dorca",
+            "2. María Fuensanta Ureba Rubio",
+            "3. Diego Amaya González",
+            "4. María Isabel Jiménez Gallardo"
+          ]
+        },
+        {
+          "codigo": "1008848",
+          "siglas": "AxSí",
+          "votos": 2515,
+          "votos_p": 19.16,
+          "seats": 4,
+          "concejales": [
+            "1. Inmaculada Sánchez Zara",
+            "2. Francisco Manuel Almazo Pareja",
+            "3. Manuel Zara Dorca",
+            "4. Juan Sebastian Sánchez Mendoza"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11014",
+      "provincia": "11",
+      "nombre": "Conil de la Frontera",
+      "censo": 17125,
+      "escrutado_p": 100,
+      "abstencion": 7704,
+      "abstencion_p": 44.99,
+      "blancos": 160,
+      "blancos_p": 1.71,
+      "nulos": 83,
+      "nulos_p": 0.88,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 4278,
+          "votos_p": 45.81,
+          "seats": 11
+        },
+        {
+          "codigo": "C014321",
+          "siglas": "PSOE-A",
+          "votos": 2702,
+          "votos_p": 28.94,
+          "seats": 6
+        },
+        {
+          "codigo": "C014253",
+          "siglas": "PP",
+          "votos": 1101,
+          "votos_p": 11.79,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 1097,
+          "votos_p": 11.75,
+          "seats": 2
+        }
+      ]
+    }
+  },
+  "11015": {
+    "m19": {
+      "id": "11015",
+      "provincia": "11",
+      "nombre": "Chiclana de la Frontera",
+      "censo": 64580,
+      "escrutado_p": 95.92,
+      "abstencion": 14731,
+      "abstencion_p": 23.78,
+      "blancos": 712,
+      "blancos_p": 1.53,
+      "nulos": 689,
+      "nulos_p": 1.46,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "1002723",
+          "siglas": "PP",
+          "votos": 5217,
+          "votos_p": 11.21,
+          "seats": 3,
+          "concejales": [
+            "1. Andres Nuñez Jiménez",
+            "2. José Antonio Pardo Moreno",
+            "3. Ana María Domínguez Natera"
+          ]
+        },
+        {
+          "codigo": "1018902",
+          "siglas": "VOX",
+          "votos": 5211,
+          "votos_p": 11.2,
+          "seats": 3,
+          "concejales": [
+            "1. Susana Candon Canales",
+            "2. Marta Chaves Delgado",
+            "3. Natalia López-azcutia Busto"
+          ]
+        },
+        {
+          "codigo": "1008665",
+          "siglas": "EB",
+          "votos": 5143,
+          "votos_p": 11.05,
+          "seats": 3,
+          "concejales": [
+            "1. Juan José Sánchez Romero",
+            "2. Josefa Ruiz Ortiz",
+            "3. Antonio Moreno Terrero"
+          ]
+        },
+        {
+          "codigo": "1005906",
+          "siglas": "PSOE-A",
+          "votos": 5127,
+          "votos_p": 11.02,
+          "seats": 3,
+          "concejales": [
+            "1. José María Román Guerrero",
+            "2. Ana María González Bueno",
+            "3. Joaquín Guerrero Bey"
+          ]
+        },
+        {
+          "codigo": "1009464",
+          "siglas": "IGRE",
+          "votos": 5120,
+          "votos_p": 11.01,
+          "seats": 3,
+          "concejales": [
+            "1. David Sierra Segura",
+            "2. Patricia González Cantillo",
+            "3. Roberto Caballero Portillo"
+          ]
+        },
+        {
+          "codigo": "1015928",
+          "siglas": "Cs",
+          "votos": 5073,
+          "votos_p": 10.9,
+          "seats": 3,
+          "concejales": [
+            "1. José Ángel Quintana Macías",
+            "2. María José Batista Muñoz",
+            "3. María Isabel Guerrero Jiménez"
+          ]
+        },
+        {
+          "codigo": "1009158",
+          "siglas": "IU-A",
+          "votos": 5045,
+          "votos_p": 10.84,
+          "seats": 3,
+          "concejales": [
+            "1. Roberto Palmero Montero",
+            "2. Susana Rivas Córdoba",
+            "3. María Dolores Vela Navarrete"
+          ]
+        },
+        {
+          "codigo": "1009697",
+          "siglas": "A.A.",
+          "votos": 4948,
+          "votos_p": 10.64,
+          "seats": 2,
+          "concejales": [
+            "1. Jorge Luis Guerrero Valle",
+            "2. Elena Coronil Fernández"
+          ]
+        },
+        {
+          "codigo": "1009411",
+          "siglas": "GCH",
+          "votos": 4928,
+          "votos_p": 10.59,
+          "seats": 2,
+          "concejales": [
+            "1. Adrian Sánchez Barea",
+            "2. Esther Gómez Ríos"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11015",
+      "provincia": "11",
+      "nombre": "Chiclana de la Frontera",
+      "censo": 62456,
+      "escrutado_p": 100,
+      "abstencion": 32052,
+      "abstencion_p": 51.32,
+      "blancos": 822,
+      "blancos_p": 2.73,
+      "nulos": 293,
+      "nulos_p": 0.96,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 11078,
+          "votos_p": 36.79,
+          "seats": 11
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 8003,
+          "votos_p": 26.58,
+          "seats": 8
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 3357,
+          "votos_p": 11.15,
+          "seats": 3
+        },
+        {
+          "codigo": "C010288",
+          "siglas": "PCSSP",
+          "votos": 2976,
+          "votos_p": 9.88,
+          "seats": 2
+        },
+        {
+          "codigo": "C012404",
+          "siglas": "GANEMOS",
+          "votos": 1746,
+          "votos_p": 5.8,
+          "seats": 1
+        },
+        {
+          "codigo": "C011927",
+          "siglas": "DIPA",
+          "votos": 782,
+          "votos_p": 2.6,
+          "seats": 0
+        },
+        {
+          "codigo": "C014358",
+          "siglas": "P.V.R.E.",
+          "votos": 582,
+          "votos_p": 1.93,
+          "seats": 0
+        },
+        {
+          "codigo": "C014098",
+          "siglas": "PA",
+          "votos": 497,
+          "votos_p": 1.65,
+          "seats": 0
+        },
+        {
+          "codigo": "C014933",
+          "siglas": "SUMEMOS",
+          "votos": 268,
+          "votos_p": 0.89,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11016": {
+    "m19": {
+      "id": "11016",
+      "provincia": "11",
+      "nombre": "Chipiona",
+      "censo": 15142,
+      "escrutado_p": 100,
+      "abstencion": 3578,
+      "abstencion_p": 23.63,
+      "blancos": 194,
+      "blancos_p": 1.69,
+      "nulos": 86,
+      "nulos_p": 0.74,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1016785",
+          "siglas": "IU-A",
+          "votos": 1962,
+          "votos_p": 17.09,
+          "seats": 3,
+          "concejales": [
+            "1. Isabel María Fernández Orihuela",
+            "2. José Luis Mellado Romero",
+            "3. Sebastian Guzmán Martín"
+          ]
+        },
+        {
+          "codigo": "1013345",
+          "siglas": "PP",
+          "votos": 1898,
+          "votos_p": 16.54,
+          "seats": 3,
+          "concejales": [
+            "1. Isabel Jurado Castro",
+            "2. Francisco Javier Diaz Jurado",
+            "3. José Enrique González Valdes"
+          ]
+        },
+        {
+          "codigo": "1014833",
+          "siglas": "A.A.",
+          "votos": 1894,
+          "votos_p": 16.5,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Miguel Córdoba Moraleda",
+            "2. Asuncion De Los Reyes Fernández Pinto",
+            "3. Juan Manuel Palacios Vital"
+          ]
+        },
+        {
+          "codigo": "1012635",
+          "siglas": "UxCH",
+          "votos": 1878,
+          "votos_p": 16.36,
+          "seats": 3,
+          "concejales": [
+            "1. Luis Mario Aparcero Fernández De Retana",
+            "2. Rosa María Naval Porta",
+            "3. José Luis Barriga Ibañez"
+          ]
+        },
+        {
+          "codigo": "1012428",
+          "siglas": "PSOE-A",
+          "votos": 1841,
+          "votos_p": 16.04,
+          "seats": 3,
+          "concejales": [
+            "1. María Dolores Naval Zarazaga",
+            "2. Lucas Diaz Bernal",
+            "3. María Del Valle Romero Espinosa"
+          ]
+        },
+        {
+          "codigo": "1015082",
+          "siglas": "Cs",
+          "votos": 1811,
+          "votos_p": 15.78,
+          "seats": 2,
+          "concejales": [
+            "1. Manuel Rodríguez Gómez",
+            "2. Virginia Porras Mendez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11016",
+      "provincia": "11",
+      "nombre": "Chipiona",
+      "censo": 15011,
+      "escrutado_p": 100,
+      "abstencion": 5535,
+      "abstencion_p": 36.87,
+      "blancos": 139,
+      "blancos_p": 1.48,
+      "nulos": 105,
+      "nulos_p": 1.11,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 3534,
+          "votos_p": 37.71,
+          "seats": 8
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 2649,
+          "votos_p": 28.27,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1947,
+          "votos_p": 20.78,
+          "seats": 4
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 379,
+          "votos_p": 4.04,
+          "seats": 0
+        },
+        {
+          "codigo": "C011410",
+          "siglas": "Sí",
+          "votos": 362,
+          "votos_p": 3.86,
+          "seats": 0
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 361,
+          "votos_p": 3.85,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11017": {
+    "m19": {
+      "id": "11017",
+      "provincia": "11",
+      "nombre": "Espera",
+      "censo": 3189,
+      "escrutado_p": 100,
+      "abstencion": 697,
+      "abstencion_p": 21.86,
+      "blancos": 11,
+      "blancos_p": 0.45,
+      "nulos": 45,
+      "nulos_p": 1.81,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1000628",
+          "siglas": "PSOE-A",
+          "votos": 621,
+          "votos_p": 25.38,
+          "seats": 3,
+          "concejales": [
+            "1. Lorenzo Barrera Chacón",
+            "2. Siberia Jiménez Benítez",
+            "3. Antonio Salas Piñero"
+          ]
+        },
+        {
+          "codigo": "1016348",
+          "siglas": "PP",
+          "votos": 620,
+          "votos_p": 25.34,
+          "seats": 3,
+          "concejales": [
+            "1. Antonia Ramos Luceño",
+            "2. Carlos Montero Vitores",
+            "3. Javier García Sánchez"
+          ]
+        },
+        {
+          "codigo": "1015814",
+          "siglas": "A.A.",
+          "votos": 602,
+          "votos_p": 24.6,
+          "seats": 3,
+          "concejales": [
+            "1. Pedro Romero Valverde",
+            "2. Tamara Lozano Muñoz",
+            "3. Rocío Vázquez Durán"
+          ]
+        },
+        {
+          "codigo": "1015853",
+          "siglas": "Marea",
+          "votos": 593,
+          "votos_p": 24.23,
+          "seats": 2,
+          "concejales": [
+            "1. Rafael Guerrero Lozano",
+            "2. Rosa Dolores Garrido Mancheño"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11017",
+      "provincia": "11",
+      "nombre": "Espera",
+      "censo": 3213,
+      "escrutado_p": 100,
+      "abstencion": 678,
+      "abstencion_p": 21.1,
+      "blancos": 18,
+      "blancos_p": 0.72,
+      "nulos": 29,
+      "nulos_p": 1.14,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1476,
+          "votos_p": 58.9,
+          "seats": 7
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 566,
+          "votos_p": 22.59,
+          "seats": 3
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 354,
+          "votos_p": 14.13,
+          "seats": 1
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 92,
+          "votos_p": 3.67,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11018": {
+    "m19": {
+      "id": "11018",
+      "provincia": "11",
+      "nombre": "Gastor, El",
+      "censo": 1464,
+      "escrutado_p": 100,
+      "abstencion": 337,
+      "abstencion_p": 23.02,
+      "blancos": 15,
+      "blancos_p": 1.36,
+      "nulos": 22,
+      "nulos_p": 1.95,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "1016539",
+          "siglas": "PSOE-A",
+          "votos": 385,
+          "votos_p": 34.84,
+          "seats": 3,
+          "concejales": [
+            "1. María Isabel Moreno Fernández",
+            "2. Raúl Hormigo Valle",
+            "3. Eva María Valiente Atienza"
+          ]
+        },
+        {
+          "codigo": "1012240",
+          "siglas": "PP",
+          "votos": 365,
+          "votos_p": 33.03,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Fernández Sánchez",
+            "2. Isabel Fuentes Bocanegra",
+            "3. Manuel Ángel Salguero Roldan"
+          ]
+        },
+        {
+          "codigo": "1026803",
+          "siglas": "A.A.",
+          "votos": 340,
+          "votos_p": 30.77,
+          "seats": 3,
+          "concejales": [
+            "1. Andres Castillo Tapia",
+            "2. Juana María Moreno Tineo",
+            "3. Jorge Linares González"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11018",
+      "provincia": "11",
+      "nombre": "El Gastor",
+      "censo": 1502,
+      "escrutado_p": 100,
+      "abstencion": 296,
+      "abstencion_p": 19.71,
+      "blancos": 9,
+      "blancos_p": 0.76,
+      "nulos": 20,
+      "nulos_p": 1.66,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 579,
+          "votos_p": 48.82,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 325,
+          "votos_p": 27.4,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 259,
+          "votos_p": 21.84,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 14,
+          "votos_p": 1.18,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11019": {
+    "m19": {
+      "id": "11019",
+      "provincia": "11",
+      "nombre": "Grazalema",
+      "censo": 1763,
+      "escrutado_p": 100,
+      "abstencion": 448,
+      "abstencion_p": 25.41,
+      "blancos": 15,
+      "blancos_p": 1.15,
+      "nulos": 6,
+      "nulos_p": 0.46,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1004070",
+          "siglas": "PSOE-A",
+          "votos": 442,
+          "votos_p": 33.77,
+          "seats": 4,
+          "concejales": [
+            "1. Carlos Javier García Ramírez",
+            "2. Manuel Tovar Gómez",
+            "3. Javier Pérez Castro",
+            "4. Lorena Gil Flores"
+          ]
+        },
+        {
+          "codigo": "1016037",
+          "siglas": "A.A.",
+          "votos": 440,
+          "votos_p": 33.61,
+          "seats": 4,
+          "concejales": [
+            "1. David Villa Gómez",
+            "2. Monica Domínguez Varela",
+            "3. María Genma Gutierrez Pages",
+            "4. María José Partida Candon"
+          ]
+        },
+        {
+          "codigo": "1015931",
+          "siglas": "PP",
+          "votos": 412,
+          "votos_p": 31.47,
+          "seats": 3,
+          "concejales": [
+            "1. Encarnacion Castro García",
+            "2. Raúl Campos Pazos",
+            "3. José Benítez Montero"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11019",
+      "provincia": "11",
+      "nombre": "Grazalema",
+      "censo": 1858,
+      "escrutado_p": 100,
+      "abstencion": 383,
+      "abstencion_p": 20.61,
+      "blancos": 18,
+      "blancos_p": 1.29,
+      "nulos": 84,
+      "nulos_p": 5.69,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 741,
+          "votos_p": 53.27,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 551,
+          "votos_p": 39.61,
+          "seats": 5
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 81,
+          "votos_p": 5.82,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11020": {
+    "m19": {
+      "id": "11020",
+      "provincia": "11",
+      "nombre": "Jerez de la Frontera",
+      "censo": 166825,
+      "escrutado_p": 94.43,
+      "abstencion": 36913,
+      "abstencion_p": 23.43,
+      "blancos": 1621,
+      "blancos_p": 1.36,
+      "nulos": 1571,
+      "nulos_p": 1.3,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "1004347",
+          "siglas": "AxSí",
+          "votos": 13361,
+          "votos_p": 11.22,
+          "seats": 3,
+          "concejales": [
+            "1. José Antonio López Sánchez",
+            "2. Eulalia Gutiérrez Ruiz",
+            "3. Antonio Pérez Cabeza"
+          ]
+        },
+        {
+          "codigo": "1004719",
+          "siglas": "A.A.",
+          "votos": 13266,
+          "votos_p": 11.14,
+          "seats": 3,
+          "concejales": [
+            "1. Raúl Ruiz Berdejo García",
+            "2. Araceli Rocío Monedero Rojo",
+            "3. Ángel Cardiel Ferrero"
+          ]
+        },
+        {
+          "codigo": "1000127",
+          "siglas": "PSOE-A",
+          "votos": 13230,
+          "votos_p": 11.11,
+          "seats": 3,
+          "concejales": [
+            "1. María Del Carmen (mamen) Sánchez Díaz",
+            "2. José Antonio Díaz Hernández",
+            "3. Laura Álvarez Cabrera"
+          ]
+        },
+        {
+          "codigo": "1015259",
+          "siglas": "Cs",
+          "votos": 13209,
+          "votos_p": 11.09,
+          "seats": 3,
+          "concejales": [
+            "1. Carlos Pérez González",
+            "2. Estefanía Brazo Angulo",
+            "3. Manuel Méndez Asencio"
+          ]
+        },
+        {
+          "codigo": "1024320",
+          "siglas": "VOX",
+          "votos": 13059,
+          "votos_p": 10.97,
+          "seats": 3,
+          "concejales": [
+            "1. César María Ruiz Vázquez",
+            "2. Iván María Garrido Hueros",
+            "3. María Del Carmen Pérez Terroba"
+          ]
+        },
+        {
+          "codigo": "1023588",
+          "siglas": "PP",
+          "votos": 12992,
+          "votos_p": 10.91,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Saldaña Moreno",
+            "2. María Del Rosario Marín Muñoz (independiente)",
+            "3. Almudena Marina Martínez Del Junco"
+          ]
+        },
+        {
+          "codigo": "1024494",
+          "siglas": "PCPA",
+          "votos": 12872,
+          "votos_p": 10.81,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Marchena Moreno",
+            "2. Ana María Moreno Ramírez",
+            "3. Antonio Pérez Castellano"
+          ]
+        },
+        {
+          "codigo": "1025738",
+          "siglas": "JEREZANOS",
+          "votos": 12740,
+          "votos_p": 10.7,
+          "seats": 3,
+          "concejales": [
+            "1. Álvaro Ignacio De La Calle Cánovas",
+            "2. EvÁngelina María Plaza Jorge",
+            "3. Manuel Antonio Pala Partida"
+          ]
+        },
+        {
+          "codigo": "1019549",
+          "siglas": "G.J.",
+          "votos": 12706,
+          "votos_p": 10.67,
+          "seats": 3,
+          "concejales": [
+            "1. Ángeles González Eslava",
+            "2. Santiago Sánchez Muñoz",
+            "3. Elena Isabel Rodríguez Puerto"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11020",
+      "provincia": "11",
+      "nombre": "Jerez de la Frontera",
+      "censo": 165831,
+      "escrutado_p": 100,
+      "abstencion": 75027,
+      "abstencion_p": 45.24,
+      "blancos": 1397,
+      "blancos_p": 1.55,
+      "nulos": 656,
+      "nulos_p": 0.72,
+      "seats": 27,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 30761,
+          "votos_p": 34.12,
+          "seats": 11
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 21819,
+          "votos_p": 24.2,
+          "seats": 7
+        },
+        {
+          "codigo": "C010204",
+          "siglas": "G.J.",
+          "votos": 14631,
+          "votos_p": 16.23,
+          "seats": 5
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 7999,
+          "votos_p": 8.87,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 6594,
+          "votos_p": 7.31,
+          "seats": 2
+        },
+        {
+          "codigo": "C012301",
+          "siglas": "F.C.J.",
+          "votos": 2952,
+          "votos_p": 3.27,
+          "seats": 0
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 1994,
+          "votos_p": 2.21,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 1150,
+          "votos_p": 1.28,
+          "seats": 0
+        },
+        {
+          "codigo": "C013123",
+          "siglas": "I.P.J",
+          "votos": 628,
+          "votos_p": 0.7,
+          "seats": 0
+        },
+        {
+          "codigo": "C014147",
+          "siglas": "P.C.P.E.",
+          "votos": 223,
+          "votos_p": 0.25,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11021": {
+    "m19": {
+      "id": "11021",
+      "provincia": "11",
+      "nombre": "Jimena de la Frontera",
+      "censo": 5136,
+      "escrutado_p": 83.55,
+      "abstencion": 1113,
+      "abstencion_p": 25.94,
+      "blancos": 22,
+      "blancos_p": 0.7,
+      "nulos": 26,
+      "nulos_p": 0.82,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1024258",
+          "siglas": "PP",
+          "votos": 804,
+          "votos_p": 25.51,
+          "seats": 4,
+          "concejales": [
+            "1. Guillermo Ruiz Ruiz",
+            "2. Juan Miguel Sánchez Vázquez",
+            "3. Juan Becerra Almagro",
+            "4. Olivia Sánchez Carrasco"
+          ]
+        },
+        {
+          "codigo": "1015065",
+          "siglas": "PSOE-A",
+          "votos": 797,
+          "votos_p": 25.29,
+          "seats": 3,
+          "concejales": [
+            "1. Yesica Barea Bernal",
+            "2. Juan Pedro Ortiz Gómez",
+            "3. Juana María Perales Prieto"
+          ]
+        },
+        {
+          "codigo": "1024570",
+          "siglas": "IU-A",
+          "votos": 780,
+          "votos_p": 24.75,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco José Gómez Pérez",
+            "2. María Del Carmen Minguet Ruiz",
+            "3. Ángel Gómez Fernández"
+          ]
+        },
+        {
+          "codigo": "1024049",
+          "siglas": "A.A.",
+          "votos": 749,
+          "votos_p": 23.76,
+          "seats": 3,
+          "concejales": [
+            "1. Sarai López García",
+            "2. Adrian Diaz Quintero",
+            "3. Ana Rojas Mancilla"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11021",
+      "provincia": "11",
+      "nombre": "Jimena de la Frontera",
+      "censo": 7092,
+      "escrutado_p": 100,
+      "abstencion": 2050,
+      "abstencion_p": 28.91,
+      "blancos": 64,
+      "blancos_p": 1.28,
+      "nulos": 55,
+      "nulos_p": 1.09,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 1796,
+          "votos_p": 36.01,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1288,
+          "votos_p": 25.83,
+          "seats": 4
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1253,
+          "votos_p": 25.13,
+          "seats": 3
+        },
+        {
+          "codigo": "C010034",
+          "siglas": "(A)",
+          "votos": 421,
+          "votos_p": 8.44,
+          "seats": 1
+        },
+        {
+          "codigo": "C014765",
+          "siglas": "Sí",
+          "votos": 165,
+          "votos_p": 3.31,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11022": {
+    "m19": {
+      "id": "11022",
+      "provincia": "11",
+      "nombre": "Línea de la Concepción, La",
+      "censo": 49118,
+      "escrutado_p": 68.14,
+      "abstencion": 8338,
+      "abstencion_p": 24.91,
+      "blancos": 240,
+      "blancos_p": 0.96,
+      "nulos": 242,
+      "nulos_p": 0.96,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "1023187",
+          "siglas": "ENTRA",
+          "votos": 3246,
+          "votos_p": 13.04,
+          "seats": 4,
+          "concejales": [
+            "1. Ángel Villar Iglesias",
+            "2. Francisco Julio Marin De Cozar",
+            "3. Ana María Gavilán Álvarez",
+            "4. Lidia Maldonado Yuste"
+          ]
+        },
+        {
+          "codigo": "1022349",
+          "siglas": "PP",
+          "votos": 3111,
+          "votos_p": 12.5,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Pablo Arriaga Cuevas",
+            "2. Juan Carlos Valenzuela Tripodoro",
+            "3. Susana González Pérez"
+          ]
+        },
+        {
+          "codigo": "1023868",
+          "siglas": "Cs",
+          "votos": 3104,
+          "votos_p": 12.47,
+          "seats": 3,
+          "concejales": [
+            "1. Alvaro Marfil Gómez",
+            "2. Aida Linares Lozano",
+            "3. Francisco López García"
+          ]
+        },
+        {
+          "codigo": "1000331",
+          "siglas": "100x100",
+          "votos": 3056,
+          "votos_p": 12.28,
+          "seats": 3,
+          "concejales": [
+            "1. José Juan Franco Rodríguez",
+            "2. Mario Helio Fernández Ardanaz",
+            "3. Ceferina Peño Gutierrez"
+          ]
+        },
+        {
+          "codigo": "1000769",
+          "siglas": "GIL-A",
+          "votos": 3050,
+          "votos_p": 12.25,
+          "seats": 3,
+          "concejales": [
+            "1. Daniel Ripoll García",
+            "2. Francisco Javier Vidal Ruiz",
+            "3. José María López Paez"
+          ]
+        },
+        {
+          "codigo": "1021800",
+          "siglas": "A.A.",
+          "votos": 3050,
+          "votos_p": 12.25,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Dorado Guerrero",
+            "2. Luisa María Espada Sánchez",
+            "3. Francisco Vaca López"
+          ]
+        },
+        {
+          "codigo": "1021111",
+          "siglas": "PSOE-A",
+          "votos": 3017,
+          "votos_p": 12.12,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Chacón Fernández",
+            "2. María Del Ángeles Recio Cano",
+            "3. Marka Andoni Carrion Jiménez"
+          ]
+        },
+        {
+          "codigo": "1023436",
+          "siglas": "VOX",
+          "votos": 3016,
+          "votos_p": 12.12,
+          "seats": 3,
+          "concejales": [
+            "1. José Alfonso Romo Ruiz",
+            "2. José López San Luis",
+            "3. Alvaro Cuadros García"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11022",
+      "provincia": "11",
+      "nombre": "La Línea de la Concepción",
+      "censo": 49175,
+      "escrutado_p": 100,
+      "abstencion": 26863,
+      "abstencion_p": 54.63,
+      "blancos": 257,
+      "blancos_p": 1.16,
+      "nulos": 186,
+      "nulos_p": 0.83,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 7555,
+          "votos_p": 34.15,
+          "seats": 9
+        },
+        {
+          "codigo": "C013782",
+          "siglas": "100x100",
+          "votos": 6850,
+          "votos_p": 30.96,
+          "seats": 9
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 4519,
+          "votos_p": 20.42,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1420,
+          "votos_p": 6.42,
+          "seats": 1
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 1157,
+          "votos_p": 5.23,
+          "seats": 1
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 368,
+          "votos_p": 1.66,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11023": {
+    "m19": {
+      "id": "11023",
+      "provincia": "11",
+      "nombre": "Medina-Sidonia",
+      "censo": 9420,
+      "escrutado_p": 100,
+      "abstencion": 2185,
+      "abstencion_p": 23.2,
+      "blancos": 98,
+      "blancos_p": 1.37,
+      "nulos": 84,
+      "nulos_p": 1.16,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1015297",
+          "siglas": "Cs",
+          "votos": 1497,
+          "votos_p": 20.93,
+          "seats": 4,
+          "concejales": [
+            "1. Antonia María De La Flor Fuentes",
+            "2. David Martín Casas",
+            "3. Sergio Costilla Moguel",
+            "4. Juan José Gautier Naranjo"
+          ]
+        },
+        {
+          "codigo": "1006830",
+          "siglas": "PSOE-A",
+          "votos": 1412,
+          "votos_p": 19.75,
+          "seats": 4,
+          "concejales": [
+            "1. Juan María Cornejo Ramírez",
+            "2. Marina Ortega Aparicio",
+            "3. Francisco Jesús García Roldan",
+            "4. María Del Mar Candon Gómez"
+          ]
+        },
+        {
+          "codigo": "1017532",
+          "siglas": "VOX",
+          "votos": 1408,
+          "votos_p": 19.69,
+          "seats": 3,
+          "concejales": [
+            "1. Manuel Flor Bravo",
+            "2. Diego Alfaro Miranda",
+            "3. Antonio Francisco Moreno Fernández"
+          ]
+        },
+        {
+          "codigo": "1006751",
+          "siglas": "IU-A",
+          "votos": 1371,
+          "votos_p": 19.17,
+          "seats": 3,
+          "concejales": [
+            "1. Manuel Fernando Macías Herrera",
+            "2. Jenifer Gutierrez Flores",
+            "3. Isabel María Quintero Fernández"
+          ]
+        },
+        {
+          "codigo": "1009470",
+          "siglas": "PP",
+          "votos": 1365,
+          "votos_p": 19.09,
+          "seats": 3,
+          "concejales": [
+            "1. Daniel Caballero Galindo",
+            "2. Humberto Daniel Ortega Peralta",
+            "3. María Del Mar Sánchez Yuste"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11023",
+      "provincia": "11",
+      "nombre": "Medina-Sidonia",
+      "censo": 9363,
+      "escrutado_p": 100,
+      "abstencion": 2131,
+      "abstencion_p": 22.76,
+      "blancos": 72,
+      "blancos_p": 1,
+      "nulos": 58,
+      "nulos_p": 0.8,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 3909,
+          "votos_p": 54.49,
+          "seats": 10
+        },
+        {
+          "codigo": "C014334",
+          "siglas": "PSOE-A",
+          "votos": 2603,
+          "votos_p": 36.28,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 403,
+          "votos_p": 5.62,
+          "seats": 1
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 187,
+          "votos_p": 2.61,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11024": {
+    "m19": {
+      "id": "11024",
+      "provincia": "11",
+      "nombre": "Olvera",
+      "censo": 6616,
+      "escrutado_p": 100,
+      "abstencion": 1614,
+      "abstencion_p": 24.4,
+      "blancos": 55,
+      "blancos_p": 1.12,
+      "nulos": 79,
+      "nulos_p": 1.58,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1000521",
+          "siglas": "PSOE-A",
+          "votos": 1664,
+          "votos_p": 33.8,
+          "seats": 5,
+          "concejales": [
+            "1. Francisco Parraga Rodríguez",
+            "2. Remedios Palma Zambrana",
+            "3. Ramon Nuñez Nuñez",
+            "4. María Del Carmen Bermúdez Zamudio",
+            "5. Rafael García Vera"
+          ]
+        },
+        {
+          "codigo": "1022401",
+          "siglas": "A.A.",
+          "votos": 1646,
+          "votos_p": 33.43,
+          "seats": 4,
+          "concejales": [
+            "1. Rafael Pérez Jaramillo",
+            "2. José Holgado Ramírez",
+            "3. Ana Isabel Medina Curquejo",
+            "4. José Luis Rio Cabrera"
+          ]
+        },
+        {
+          "codigo": "1021147",
+          "siglas": "PP",
+          "votos": 1558,
+          "votos_p": 31.65,
+          "seats": 4,
+          "concejales": [
+            "1. Antonio Villalba Sánchez",
+            "2. María Remedios Serrano García",
+            "3. Eduardo José Parraga Pérez",
+            "4. Ildefonso Ortega Cabeza"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11024",
+      "provincia": "11",
+      "nombre": "Olvera",
+      "censo": 6752,
+      "escrutado_p": 100,
+      "abstencion": 1986,
+      "abstencion_p": 29.41,
+      "blancos": 69,
+      "blancos_p": 1.46,
+      "nulos": 51,
+      "nulos_p": 1.07,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 1804,
+          "votos_p": 38.26,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1803,
+          "votos_p": 38.24,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1039,
+          "votos_p": 22.04,
+          "seats": 3
+        }
+      ]
+    }
+  },
+  "11025": {
+    "m19": {
+      "id": "11025",
+      "provincia": "11",
+      "nombre": "Paterna de Rivera",
+      "censo": 4392,
+      "escrutado_p": 100,
+      "abstencion": 1016,
+      "abstencion_p": 23.13,
+      "blancos": 26,
+      "blancos_p": 0.78,
+      "nulos": 35,
+      "nulos_p": 1.04,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1008857",
+          "siglas": "PSOE-A",
+          "votos": 850,
+          "votos_p": 25.44,
+          "seats": 4,
+          "concejales": [
+            "1. Lucia Torrejon Toledo",
+            "2. Rafael Rodríguez Macho",
+            "3. María De Los Santos Sevillano Villega",
+            "4. Pedro García Colon"
+          ]
+        },
+        {
+          "codigo": "1016969",
+          "siglas": "PP",
+          "votos": 834,
+          "votos_p": 24.96,
+          "seats": 3,
+          "concejales": [
+            "1. Andres Clavijo Ortiz",
+            "2. Juan Carlos Diaz Moreno",
+            "3. Cecilia María Barrera Herrera"
+          ]
+        },
+        {
+          "codigo": "1015724",
+          "siglas": "IU-A",
+          "votos": 819,
+          "votos_p": 24.51,
+          "seats": 3,
+          "concejales": [
+            "1. Ignacio Colon Pérez",
+            "2. Catalina Marin Pérez",
+            "3. Ana María Sevillano Mesa"
+          ]
+        },
+        {
+          "codigo": "1015924",
+          "siglas": "AxSí",
+          "votos": 812,
+          "votos_p": 24.3,
+          "seats": 3,
+          "concejales": [
+            "1. Andres Diaz Rodríguez",
+            "2. Pedro José Diaz Pantoja",
+            "3. Joséfina Diaz Rodríguez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11025",
+      "provincia": "11",
+      "nombre": "Paterna de Rivera",
+      "censo": 4397,
+      "escrutado_p": 100,
+      "abstencion": 1179,
+      "abstencion_p": 26.81,
+      "blancos": 80,
+      "blancos_p": 2.57,
+      "nulos": 101,
+      "nulos_p": 3.14,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014334",
+          "siglas": "PSOE-A",
+          "votos": 1359,
+          "votos_p": 43.6,
+          "seats": 7
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 917,
+          "votos_p": 29.42,
+          "seats": 4
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 382,
+          "votos_p": 12.26,
+          "seats": 1
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 379,
+          "votos_p": 12.16,
+          "seats": 1
+        }
+      ]
+    }
+  },
+  "11026": {
+    "m19": {
+      "id": "11026",
+      "provincia": "11",
+      "nombre": "Prado del Rey",
+      "censo": 4705,
+      "escrutado_p": 100,
+      "abstencion": 1115,
+      "abstencion_p": 23.7,
+      "blancos": 80,
+      "blancos_p": 2.25,
+      "nulos": 28,
+      "nulos_p": 0.78,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1000863",
+          "siglas": "AxSí",
+          "votos": 912,
+          "votos_p": 25.6,
+          "seats": 4,
+          "concejales": [
+            "1. Juan Antonio Fernández González",
+            "2. Salud Del Rocio Rodríguez Pineda",
+            "3. Oscar Rebollo Velazquez",
+            "4. Carmen María Gómez Galan"
+          ]
+        },
+        {
+          "codigo": "1000439",
+          "siglas": "PSOE-A",
+          "votos": 891,
+          "votos_p": 25.01,
+          "seats": 3,
+          "concejales": [
+            "1. Jesús Tellez Pérez",
+            "2. María Isabel Pérez Fernández",
+            "3. Jesús María González Castro"
+          ]
+        },
+        {
+          "codigo": "1019044",
+          "siglas": "PP",
+          "votos": 872,
+          "votos_p": 24.48,
+          "seats": 3,
+          "concejales": [
+            "1. María Vanesa Beltran Morales",
+            "2. Isabel María Blanco Orellana (independiente)",
+            "3. Antonio Becerra Troncoso"
+          ]
+        },
+        {
+          "codigo": "1007918",
+          "siglas": "A.A.",
+          "votos": 807,
+          "votos_p": 22.66,
+          "seats": 3,
+          "concejales": [
+            "1. José María Martínez Figueredo",
+            "2. María Mercedes Nadales Chacón",
+            "3. Antonio Jesús Hinojo Molina"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11026",
+      "provincia": "11",
+      "nombre": "Prado del Rey",
+      "censo": 4815,
+      "escrutado_p": 100,
+      "abstencion": 1205,
+      "abstencion_p": 25.03,
+      "blancos": 33,
+      "blancos_p": 0.93,
+      "nulos": 64,
+      "nulos_p": 1.77,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1253,
+          "votos_p": 35.34,
+          "seats": 5
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 1127,
+          "votos_p": 31.78,
+          "seats": 5
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 531,
+          "votos_p": 14.97,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 411,
+          "votos_p": 11.59,
+          "seats": 1
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 191,
+          "votos_p": 5.39,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11027": {
+    "m19": {
+      "id": "11027",
+      "provincia": "11",
+      "nombre": "Puerto de Santa María, El",
+      "censo": 68863,
+      "escrutado_p": 87.46,
+      "abstencion": 14564,
+      "abstencion_p": 24.18,
+      "blancos": 562,
+      "blancos_p": 1.25,
+      "nulos": 639,
+      "nulos_p": 1.4,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "1009632",
+          "siglas": "PP",
+          "votos": 5681,
+          "votos_p": 12.62,
+          "seats": 4,
+          "concejales": [
+            "1. German Beardo Caro",
+            "2. Carmelo José Navarro Careaga",
+            "3. David Calleja García Ruiz (independiente)",
+            "4. Danuxia María Enciso Fernández (independiente)"
+          ]
+        },
+        {
+          "codigo": "1017714",
+          "siglas": "AxSí",
+          "votos": 5642,
+          "votos_p": 12.53,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Jesús Ruiz Aguilar",
+            "2. Manuel Raposo Soriano",
+            "3. María Fatima Utrera González"
+          ]
+        },
+        {
+          "codigo": "1016922",
+          "siglas": "VOX",
+          "votos": 5610,
+          "votos_p": 12.46,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Carlos Sanz Martín",
+            "2. Leocadia María Benavente Lara",
+            "3. Luis Gonzaga Palomino Martínez Del Cerro"
+          ]
+        },
+        {
+          "codigo": "1022679",
+          "siglas": "UP",
+          "votos": 5599,
+          "votos_p": 12.44,
+          "seats": 3,
+          "concejales": [
+            "1. Javier Botella Franco",
+            "2. Ana Rizo Velazquez",
+            "3. Irene Fernández-sanz González"
+          ]
+        },
+        {
+          "codigo": "1010604",
+          "siglas": "A.A.",
+          "votos": 5598,
+          "votos_p": 12.43,
+          "seats": 3,
+          "concejales": [
+            "1. Alejandro Gutierrez García (podemos)",
+            "2. Matilde Rosello Del Castillo (i.u.)",
+            "3. José Luis Bueno Pinto (i.u.)"
+          ]
+        },
+        {
+          "codigo": "1000700",
+          "siglas": "PSOE-A",
+          "votos": 5471,
+          "votos_p": 12.15,
+          "seats": 3,
+          "concejales": [
+            "1. Javier David De La Encina Ortega",
+            "2. Ana María Arias Doello",
+            "3. Ángel María González Arias"
+          ]
+        },
+        {
+          "codigo": "1014808",
+          "siglas": "Lev.",
+          "votos": 5437,
+          "votos_p": 12.08,
+          "seats": 3,
+          "concejales": [
+            "1. Irene Arana González",
+            "2. Vanesa Gómez Bernal",
+            "3. María José Marin Castillero"
+          ]
+        },
+        {
+          "codigo": "1015041",
+          "siglas": "Cs",
+          "votos": 5422,
+          "votos_p": 12.04,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Antonio (curro) Martínez Romero (independiente)",
+            "2. María Dolores Campos García",
+            "3. Ana Isabel Moreno Mateos"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11027",
+      "provincia": "11",
+      "nombre": "El Puerto de Santa María",
+      "censo": 68196,
+      "escrutado_p": 100,
+      "abstencion": 33598,
+      "abstencion_p": 49.27,
+      "blancos": 569,
+      "blancos_p": 1.66,
+      "nulos": 271,
+      "nulos_p": 0.78,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 10885,
+          "votos_p": 31.71,
+          "seats": 9
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 6953,
+          "votos_p": 20.26,
+          "seats": 6
+        },
+        {
+          "codigo": "C013833",
+          "siglas": "Lev.",
+          "votos": 5223,
+          "votos_p": 15.22,
+          "seats": 4
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 3569,
+          "votos_p": 10.4,
+          "seats": 3
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 3255,
+          "votos_p": 9.48,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 2198,
+          "votos_p": 6.4,
+          "seats": 1
+        },
+        {
+          "codigo": "C014618",
+          "siglas": "Qp",
+          "votos": 953,
+          "votos_p": 2.78,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 722,
+          "votos_p": 2.1,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11028": {
+    "m19": {
+      "id": "11028",
+      "provincia": "11",
+      "nombre": "Puerto Real",
+      "censo": 32883,
+      "escrutado_p": 100,
+      "abstencion": 8149,
+      "abstencion_p": 24.78,
+      "blancos": 317,
+      "blancos_p": 1.3,
+      "nulos": 260,
+      "nulos_p": 1.05,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1009432",
+          "siglas": "A.A.",
+          "votos": 3514,
+          "votos_p": 14.36,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Javier Romero Alfaro (podemos)",
+            "2. María Ascension Ruiz Aragón (podemos)",
+            "3. José Alfaro Berenguer (i.u.)"
+          ]
+        },
+        {
+          "codigo": "1015709",
+          "siglas": "EQUO",
+          "votos": 3487,
+          "votos_p": 14.25,
+          "seats": 3,
+          "concejales": [
+            "1. Alfredo José Charques Calderon",
+            "2. María Del Dulce Nombre Merello Arvilla",
+            "3. Antonio Villalpando Moreno"
+          ]
+        },
+        {
+          "codigo": "1014926",
+          "siglas": "AxSí",
+          "votos": 3460,
+          "votos_p": 14.14,
+          "seats": 3,
+          "concejales": [
+            "1. Fernando Boy Pecci",
+            "2. Victoria Pérez Del Campo",
+            "3. Manuel Jesús Izco Reina"
+          ]
+        },
+        {
+          "codigo": "1010864",
+          "siglas": "PP",
+          "votos": 3441,
+          "votos_p": 14.06,
+          "seats": 3,
+          "concejales": [
+            "1. Vicente Fernández Belizon",
+            "2. Victor López Romero",
+            "3. Macarena Cervera Conradi"
+          ]
+        },
+        {
+          "codigo": "1016723",
+          "siglas": "VOX",
+          "votos": 3432,
+          "votos_p": 14.02,
+          "seats": 3,
+          "concejales": [
+            "1. María Encarnacion Armario Gómez",
+            "2. Concepción Rueda Gómez",
+            "3. Alvaro Vizcaino Sánchez"
+          ]
+        },
+        {
+          "codigo": "1015058",
+          "siglas": "Cs",
+          "votos": 3420,
+          "votos_p": 13.97,
+          "seats": 3,
+          "concejales": [
+            "1. Guillermo Jesús Cisneros Cabello",
+            "2. Carlos Parra Marin",
+            "3. María Auxiliadora Geraldia Lama"
+          ]
+        },
+        {
+          "codigo": "1008922",
+          "siglas": "PSOE-A",
+          "votos": 3403,
+          "votos_p": 13.9,
+          "seats": 3,
+          "concejales": [
+            "1. María Elena Amaya León",
+            "2. Carlos Salguero Gilabert",
+            "3. Eva María Basadre Campos"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11028",
+      "provincia": "11",
+      "nombre": "Puerto Real",
+      "censo": 32670,
+      "escrutado_p": 100,
+      "abstencion": 14287,
+      "abstencion_p": 43.73,
+      "blancos": 303,
+      "blancos_p": 1.66,
+      "nulos": 128,
+      "nulos_p": 0.7,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014098",
+          "siglas": "PA",
+          "votos": 5197,
+          "votos_p": 28.47,
+          "seats": 7
+        },
+        {
+          "codigo": "C014775",
+          "siglas": "Sí",
+          "votos": 5075,
+          "votos_p": 27.8,
+          "seats": 7
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 2880,
+          "votos_p": 15.78,
+          "seats": 3
+        },
+        {
+          "codigo": "C012052",
+          "siglas": "EQUO",
+          "votos": 2400,
+          "votos_p": 13.15,
+          "seats": 3
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1217,
+          "votos_p": 6.67,
+          "seats": 1
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 821,
+          "votos_p": 4.5,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 362,
+          "votos_p": 1.98,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11029": {
+    "m19": {
+      "id": "11029",
+      "provincia": "11",
+      "nombre": "Puerto Serrano",
+      "censo": 5443,
+      "escrutado_p": 100,
+      "abstencion": 1396,
+      "abstencion_p": 25.65,
+      "blancos": 34,
+      "blancos_p": 0.85,
+      "nulos": 57,
+      "nulos_p": 1.41,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1017689",
+          "siglas": "A.A.",
+          "votos": 1355,
+          "votos_p": 33.96,
+          "seats": 5,
+          "concejales": [
+            "1. Daniel Pérez Martínez",
+            "2. María Luisa López García",
+            "3. Alejandro Ramírez Carrero",
+            "4. Gemma Valderrama Campanario",
+            "5. Antonio José Roldán Gómez"
+          ]
+        },
+        {
+          "codigo": "1012501",
+          "siglas": "PP",
+          "votos": 1328,
+          "votos_p": 33.28,
+          "seats": 4,
+          "concejales": [
+            "1. Isidoro Benítez Morato",
+            "2. José Alberto Campanario Salas",
+            "3. Mercedes Ríos Gómez",
+            "4. Gemma Campanario Salas"
+          ]
+        },
+        {
+          "codigo": "1012464",
+          "siglas": "PSOE-A",
+          "votos": 1273,
+          "votos_p": 31.9,
+          "seats": 4,
+          "concejales": [
+            "1. Miguel Ángel Carrero Nieto",
+            "2. Francisca García Morato",
+            "3. Juan Francisco García Navas",
+            "4. Jenifer Pérez López"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11029",
+      "provincia": "11",
+      "nombre": "Puerto Serrano",
+      "censo": 5433,
+      "escrutado_p": 100,
+      "abstencion": 2006,
+      "abstencion_p": 36.92,
+      "blancos": 26,
+      "blancos_p": 0.77,
+      "nulos": 50,
+      "nulos_p": 1.46,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014326",
+          "siglas": "PSOE-A",
+          "votos": 1459,
+          "votos_p": 43.2,
+          "seats": 6
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1404,
+          "votos_p": 41.58,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 488,
+          "votos_p": 14.45,
+          "seats": 2
+        }
+      ]
+    }
+  },
+  "11030": {
+    "m19": {
+      "id": "11030",
+      "provincia": "11",
+      "nombre": "Rota",
+      "censo": 23011,
+      "escrutado_p": 100,
+      "abstencion": 5770,
+      "abstencion_p": 25.07,
+      "blancos": 197,
+      "blancos_p": 1.16,
+      "nulos": 229,
+      "nulos_p": 1.33,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1017902",
+          "siglas": "A.A.",
+          "votos": 1942,
+          "votos_p": 11.42,
+          "seats": 3,
+          "concejales": [
+            "1. Moises Rodríguez Fenix",
+            "2. Estefania Martín Bejarano Guzmán",
+            "3. Eugenio Ponce Saborido"
+          ]
+        },
+        {
+          "codigo": "1010881",
+          "siglas": "Cs",
+          "votos": 1920,
+          "votos_p": 11.29,
+          "seats": 3,
+          "concejales": [
+            "1. Gilberto Manuel Bernal Reyes",
+            "2. María Valle Rodríguez Baena",
+            "3. María Del Carmen Chamorro Donaire"
+          ]
+        },
+        {
+          "codigo": "1009763",
+          "siglas": "PSOE-A",
+          "votos": 1905,
+          "votos_p": 11.2,
+          "seats": 3,
+          "concejales": [
+            "1. José Javier Ruiz Arana",
+            "2. Encarnacion Niño Rico",
+            "3. Daniel Manrique De Lara Quiros"
+          ]
+        },
+        {
+          "codigo": "1015803",
+          "siglas": "EQUO",
+          "votos": 1892,
+          "votos_p": 11.12,
+          "seats": 2,
+          "concejales": [
+            "1. María Del Mar San José Maestre",
+            "2. Mateo Rafael Quiros Hernández"
+          ]
+        },
+        {
+          "codigo": "1010632",
+          "siglas": "RR.UU.",
+          "votos": 1876,
+          "votos_p": 11.03,
+          "seats": 2,
+          "concejales": [
+            "1. María De Los Ángeles Sánchez Moreno",
+            "2. Juana Reyes García"
+          ]
+        },
+        {
+          "codigo": "1014958",
+          "siglas": "IU-A",
+          "votos": 1848,
+          "votos_p": 10.86,
+          "seats": 2,
+          "concejales": [
+            "1. Pedro Pablo SantaMaría Curtido",
+            "2. Manuel Carmona Curtido"
+          ]
+        },
+        {
+          "codigo": "1010250",
+          "siglas": "PP",
+          "votos": 1839,
+          "votos_p": 10.81,
+          "seats": 2,
+          "concejales": [
+            "1. María Auxiliadora Izquierdo Paredes",
+            "2. Nazaret María Herrera Martín Niño"
+          ]
+        },
+        {
+          "codigo": "1017396",
+          "siglas": "VOX",
+          "votos": 1800,
+          "votos_p": 10.58,
+          "seats": 2,
+          "concejales": [
+            "1. José Manuel Sánchez Guzmán",
+            "2. Esther Ceballos Zuñiga Liaño"
+          ]
+        },
+        {
+          "codigo": "1000732",
+          "siglas": "VcR",
+          "votos": 1793,
+          "votos_p": 10.54,
+          "seats": 2,
+          "concejales": [
+            "1. Juan Antonio Liaño Pazos",
+            "2. Jessica Lara Cesar"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11030",
+      "provincia": "11",
+      "nombre": "Rota",
+      "censo": 22983,
+      "escrutado_p": 100,
+      "abstencion": 9689,
+      "abstencion_p": 42.16,
+      "blancos": 239,
+      "blancos_p": 1.83,
+      "nulos": 204,
+      "nulos_p": 1.53,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 5109,
+          "votos_p": 39.03,
+          "seats": 10
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 2336,
+          "votos_p": 17.85,
+          "seats": 4
+        },
+        {
+          "codigo": "C014676",
+          "siglas": "R.R.U.U.",
+          "votos": 2264,
+          "votos_p": 17.3,
+          "seats": 4
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1367,
+          "votos_p": 10.44,
+          "seats": 2
+        },
+        {
+          "codigo": "C014778",
+          "siglas": "Sí",
+          "votos": 990,
+          "votos_p": 7.56,
+          "seats": 1
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 457,
+          "votos_p": 3.49,
+          "seats": 0
+        },
+        {
+          "codigo": "C013049",
+          "siglas": "I.I.C.R.",
+          "votos": 328,
+          "votos_p": 2.51,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11031": {
+    "m19": {
+      "id": "11031",
+      "provincia": "11",
+      "nombre": "San Fernando",
+      "censo": 76380,
+      "escrutado_p": 93.39,
+      "abstencion": 16565,
+      "abstencion_p": 23.22,
+      "blancos": 687,
+      "blancos_p": 1.27,
+      "nulos": 700,
+      "nulos_p": 1.28,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "1006545",
+          "siglas": "PSOE-A",
+          "votos": 6094,
+          "votos_p": 11.27,
+          "seats": 3,
+          "concejales": [
+            "1. Patricia Cabada Montañes",
+            "2. Conrado Rodríguez Ruiz",
+            "3. Claudia Márquez Ramírez"
+          ]
+        },
+        {
+          "codigo": "1017847",
+          "siglas": "FeJons",
+          "votos": 6042,
+          "votos_p": 11.18,
+          "seats": 3,
+          "concejales": [
+            "1. Raúl Jordan Gutierrez",
+            "2. Mauro Pastor Choya",
+            "3. Tamara Mour Milleiro"
+          ]
+        },
+        {
+          "codigo": "1009019",
+          "siglas": "SSF",
+          "votos": 5988,
+          "votos_p": 11.08,
+          "seats": 3,
+          "concejales": [
+            "1. Inmaculada Concepción López Barrera",
+            "2. José Manuel Corral Pavón",
+            "3. Juan Ignacio Sánchez Muñoz"
+          ]
+        },
+        {
+          "codigo": "1015537",
+          "siglas": "Cs",
+          "votos": 5983,
+          "votos_p": 11.07,
+          "seats": 3,
+          "concejales": [
+            "1. María Regla Moreno Gómez",
+            "2. Francisco José Posada Castillo",
+            "3. Soraya Rendon Escudier"
+          ]
+        },
+        {
+          "codigo": "1008672",
+          "siglas": "AxSí",
+          "votos": 5946,
+          "votos_p": 11,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco José Romero Herrero",
+            "2. María Teresa Lebrero Romero",
+            "3. Manuel Picardo Fontao"
+          ]
+        },
+        {
+          "codigo": "1009835",
+          "siglas": "PP",
+          "votos": 5887,
+          "votos_p": 10.89,
+          "seats": 3,
+          "concejales": [
+            "1. José Loaiza García",
+            "2. María José De Alba Castiñeira",
+            "3. María Del Carmen Roa Suarez"
+          ]
+        },
+        {
+          "codigo": "1016409",
+          "siglas": "IU-A",
+          "votos": 5867,
+          "votos_p": 10.85,
+          "seats": 3,
+          "concejales": [
+            "1. Gonzalo Alias Gurria",
+            "2. Matilde Cordero Fernández",
+            "3. Francisco Guerrero Bey"
+          ]
+        },
+        {
+          "codigo": "1017174",
+          "siglas": "VOX",
+          "votos": 5807,
+          "votos_p": 10.74,
+          "seats": 2,
+          "concejales": [
+            "1. Carlos José Zambrano García-raez",
+            "2. Francisco Ramon Paredes Jiménez"
+          ]
+        },
+        {
+          "codigo": "1006605",
+          "siglas": "A.A.",
+          "votos": 5764,
+          "votos_p": 10.66,
+          "seats": 2,
+          "concejales": [
+            "1. Ernesto Manuel Diaz Macías",
+            "2. Ana María Rojas Bommatty"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11031",
+      "provincia": "11",
+      "nombre": "San Fernando",
+      "censo": 76642,
+      "escrutado_p": 100,
+      "abstencion": 36438,
+      "abstencion_p": 47.54,
+      "blancos": 552,
+      "blancos_p": 1.38,
+      "nulos": 302,
+      "nulos_p": 0.75,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "C014334",
+          "siglas": "PSOE-A",
+          "votos": 11873,
+          "votos_p": 29.76,
+          "seats": 8
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 9247,
+          "votos_p": 23.17,
+          "seats": 7
+        },
+        {
+          "codigo": "C014779",
+          "siglas": "Sí",
+          "votos": 5759,
+          "votos_p": 14.43,
+          "seats": 4
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 4946,
+          "votos_p": 12.4,
+          "seats": 3
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 4278,
+          "votos_p": 10.72,
+          "seats": 3
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1873,
+          "votos_p": 4.69,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 646,
+          "votos_p": 1.62,
+          "seats": 0
+        },
+        {
+          "codigo": "C015373",
+          "siglas": "VOX",
+          "votos": 447,
+          "votos_p": 1.12,
+          "seats": 0
+        },
+        {
+          "codigo": "C014491",
+          "siglas": "3R",
+          "votos": 281,
+          "votos_p": 0.7,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11032": {
+    "m19": {
+      "id": "11032",
+      "provincia": "11",
+      "nombre": "Sanlúcar de Barrameda",
+      "censo": 54670,
+      "escrutado_p": 93.31,
+      "abstencion": 12069,
+      "abstencion_p": 23.66,
+      "blancos": 492,
+      "blancos_p": 1.28,
+      "nulos": 576,
+      "nulos_p": 1.48,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "1017708",
+          "siglas": "VOX",
+          "votos": 5516,
+          "votos_p": 14.38,
+          "seats": 4,
+          "concejales": [
+            "1. José Manuel Martínez Ayala",
+            "2. María Del Carmen Infantes Hernández",
+            "3. Juan Carlos Racero Valles",
+            "4. Estrella María Viejo Rodríguez"
+          ]
+        },
+        {
+          "codigo": "1009687",
+          "siglas": "PSOE-A",
+          "votos": 5437,
+          "votos_p": 14.17,
+          "seats": 4,
+          "concejales": [
+            "1. Victor Mora Escobar",
+            "2. Irene García Macías",
+            "3. David Salazar González",
+            "4. Teresa De Jesús Rua Uribe"
+          ]
+        },
+        {
+          "codigo": "1016772",
+          "siglas": "L",
+          "votos": 5412,
+          "votos_p": 14.11,
+          "seats": 4,
+          "concejales": [
+            "1. Antonio Prats Rivero",
+            "2. Francisco Guerrero Baez",
+            "3. Antonio Luque García",
+            "4. Ana María Casado Prat"
+          ]
+        },
+        {
+          "codigo": "1014849",
+          "siglas": "A.A.",
+          "votos": 5397,
+          "votos_p": 14.07,
+          "seats": 4,
+          "concejales": [
+            "1. David Rodríguez Alhambra",
+            "2. Rocio Caridad Diaz Marin",
+            "3. Manuel Comesaña Romero",
+            "4. Gloria Jurado Gil"
+          ]
+        },
+        {
+          "codigo": "1015314",
+          "siglas": "IU-A",
+          "votos": 5390,
+          "votos_p": 14.05,
+          "seats": 3,
+          "concejales": [
+            "1. María Carmen Álvarez Marin",
+            "2. Fernando Manuel Cabral Hidalgo",
+            "3. Nuria Prado Rodríguez"
+          ]
+        },
+        {
+          "codigo": "1015018",
+          "siglas": "PP",
+          "votos": 5380,
+          "votos_p": 14.02,
+          "seats": 3,
+          "concejales": [
+            "1. María Del Carmen Pérez Becerra",
+            "2. María Pilar Tirado Becerra",
+            "3. Juan José Marmolejo Martínez"
+          ]
+        },
+        {
+          "codigo": "1014994",
+          "siglas": "Cs",
+          "votos": 5345,
+          "votos_p": 13.93,
+          "seats": 3,
+          "concejales": [
+            "1. Javier Jesús Gómez Porrua",
+            "2. Ana Sumariva García",
+            "3. Manuel Lobato Reinoso (independiente)"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11032",
+      "provincia": "11",
+      "nombre": "Sanlúcar de Barrameda",
+      "censo": 53928,
+      "escrutado_p": 100,
+      "abstencion": 30740,
+      "abstencion_p": 57,
+      "blancos": 410,
+      "blancos_p": 1.79,
+      "nulos": 219,
+      "nulos_p": 0.94,
+      "seats": 25,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 7353,
+          "votos_p": 32.01,
+          "seats": 9
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 4600,
+          "votos_p": 20.03,
+          "seats": 6
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 3743,
+          "votos_p": 16.3,
+          "seats": 4
+        },
+        {
+          "codigo": "C014567",
+          "siglas": "Sí",
+          "votos": 3023,
+          "votos_p": 13.16,
+          "seats": 3
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 2830,
+          "votos_p": 12.32,
+          "seats": 3
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 1010,
+          "votos_p": 4.4,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11033": {
+    "m19": {
+      "id": "11033",
+      "provincia": "11",
+      "nombre": "San Roque",
+      "censo": 22212,
+      "escrutado_p": 100,
+      "abstencion": 5508,
+      "abstencion_p": 24.8,
+      "blancos": 244,
+      "blancos_p": 1.48,
+      "nulos": 212,
+      "nulos_p": 1.27,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "1018026",
+          "siglas": "A.A.",
+          "votos": 2372,
+          "votos_p": 14.38,
+          "seats": 3,
+          "concejales": [
+            "1. Julio Manuel Labrador Amo",
+            "2. Carmen Medina Muñoz",
+            "3. Eusebio Mena Campos"
+          ]
+        },
+        {
+          "codigo": "1018232",
+          "siglas": "100x100",
+          "votos": 2348,
+          "votos_p": 14.24,
+          "seats": 3,
+          "concejales": [
+            "1. María Teresa García León",
+            "2. Fernando Salvador Correro Rojas",
+            "3. María Mercedes Escarcena Alcaide"
+          ]
+        },
+        {
+          "codigo": "1020532",
+          "siglas": "Cs",
+          "votos": 2341,
+          "votos_p": 14.19,
+          "seats": 3,
+          "concejales": [
+            "1. Pedro Miguel Mancha Romero",
+            "2. Manuel Bernardo Piña Batista",
+            "3. Ruth Ana Martín Acevedo"
+          ]
+        },
+        {
+          "codigo": "1018729",
+          "siglas": "PP",
+          "votos": 2337,
+          "votos_p": 14.17,
+          "seats": 3,
+          "concejales": [
+            "1. Marina García Peinado",
+            "2. Francisco Collado Gago",
+            "3. Ramon Aranda Sagrario"
+          ]
+        },
+        {
+          "codigo": "1020860",
+          "siglas": "VOX",
+          "votos": 2330,
+          "votos_p": 14.13,
+          "seats": 3,
+          "concejales": [
+            "1. Rafael García Buitrago",
+            "2. Alvaro Sabio Arenas",
+            "3. Ángela Martínez Martínez"
+          ]
+        },
+        {
+          "codigo": "1017523",
+          "siglas": "PSOE-A",
+          "votos": 2275,
+          "votos_p": 13.79,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Carlos Ruiz Boix",
+            "2. Belen Jiménez Mateo",
+            "3. Ángel Gavino Criado"
+          ]
+        },
+        {
+          "codigo": "1027088",
+          "siglas": "P.I.V.G.",
+          "votos": 2245,
+          "votos_p": 13.61,
+          "seats": 3,
+          "concejales": [
+            "1. Jesús Mayoral Mayoral",
+            "2. María Del Mar González Galan",
+            "3. Salvador Fernández Ocaña"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11033",
+      "provincia": "11",
+      "nombre": "San Roque",
+      "censo": 21107,
+      "escrutado_p": 100,
+      "abstencion": 8833,
+      "abstencion_p": 41.85,
+      "blancos": 201,
+      "blancos_p": 1.66,
+      "nulos": 178,
+      "nulos_p": 1.45,
+      "seats": 21,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 5194,
+          "votos_p": 42.94,
+          "seats": 11
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 3059,
+          "votos_p": 25.29,
+          "seats": 6
+        },
+        {
+          "codigo": "C014694",
+          "siglas": "Sí",
+          "votos": 941,
+          "votos_p": 7.78,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 811,
+          "votos_p": 6.7,
+          "seats": 1
+        },
+        {
+          "codigo": "C014227",
+          "siglas": "P.I.V.G.",
+          "votos": 645,
+          "votos_p": 5.33,
+          "seats": 1
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 455,
+          "votos_p": 3.76,
+          "seats": 0
+        },
+        {
+          "codigo": "C011456",
+          "siglas": "C's",
+          "votos": 416,
+          "votos_p": 3.44,
+          "seats": 0
+        },
+        {
+          "codigo": "C015163",
+          "siglas": "UPyD",
+          "votos": 374,
+          "votos_p": 3.09,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11034": {
+    "m19": {
+      "id": "11034",
+      "provincia": "11",
+      "nombre": "Setenil de las Bodegas",
+      "censo": 2340,
+      "escrutado_p": 100,
+      "abstencion": 591,
+      "abstencion_p": 25.26,
+      "blancos": 0,
+      "blancos_p": 0,
+      "nulos": 18,
+      "nulos_p": 1.03,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1003989",
+          "siglas": "PSOE-A",
+          "votos": 458,
+          "votos_p": 26.46,
+          "seats": 3,
+          "concejales": [
+            "1. Manuel Benítez Ortiz",
+            "2. María Francisca Guzmán Jiménez",
+            "3. Rafael Jiménez Castaño"
+          ]
+        },
+        {
+          "codigo": "1001262",
+          "siglas": "AxSí",
+          "votos": 434,
+          "votos_p": 25.07,
+          "seats": 3,
+          "concejales": [
+            "1. Rafael Vargas Villalón",
+            "2. Leónor Romero Linares",
+            "3. Virgina Villalón Domínguez"
+          ]
+        },
+        {
+          "codigo": "1026998",
+          "siglas": "A.A.",
+          "votos": 423,
+          "votos_p": 24.44,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Luis Garrido González",
+            "2. Silvia Cano Rastrollo",
+            "3. Gonzalo Antonio Hernández Blanes"
+          ]
+        },
+        {
+          "codigo": "1015304",
+          "siglas": "PP",
+          "votos": 416,
+          "votos_p": 24.03,
+          "seats": 2,
+          "concejales": [
+            "1. Rafael Pastorino Torreño",
+            "2. Laura Rubio Triviño"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11034",
+      "provincia": "11",
+      "nombre": "Setenil de las Bodegas",
+      "censo": 2355,
+      "escrutado_p": 100,
+      "abstencion": 381,
+      "abstencion_p": 16.18,
+      "blancos": 8,
+      "blancos_p": 0.41,
+      "nulos": 24,
+      "nulos_p": 1.22,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 1048,
+          "votos_p": 53.74,
+          "seats": 6
+        },
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 847,
+          "votos_p": 43.44,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 47,
+          "votos_p": 2.41,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11035": {
+    "m19": {
+      "id": "11035",
+      "provincia": "11",
+      "nombre": "Tarifa",
+      "censo": 14039,
+      "escrutado_p": 100,
+      "abstencion": 5033,
+      "abstencion_p": 35.85,
+      "blancos": 140,
+      "blancos_p": 1.58,
+      "nulos": 171,
+      "nulos_p": 1.9,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1008472",
+          "siglas": "ENTRA",
+          "votos": 1496,
+          "votos_p": 16.93,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco José Araujo Medina",
+            "2. Jessica Martíez Leyro",
+            "3. María Noelia Silva Cote"
+          ]
+        },
+        {
+          "codigo": "1005044",
+          "siglas": "EQUO",
+          "votos": 1483,
+          "votos_p": 16.79,
+          "seats": 3,
+          "concejales": [
+            "1. Rosa María Hennecke-gramatzki",
+            "2. María Auxiliadora Manzanero Trujillo",
+            "3. José Manuel Carrillo Huelva"
+          ]
+        },
+        {
+          "codigo": "1005651",
+          "siglas": "A.A.",
+          "votos": 1479,
+          "votos_p": 16.74,
+          "seats": 3,
+          "concejales": [
+            "1. José Francisco Castro Romero",
+            "2. Estefanía González Díaz",
+            "3. Francisco José Fernández Parras"
+          ]
+        },
+        {
+          "codigo": "1004685",
+          "siglas": "PP",
+          "votos": 1449,
+          "votos_p": 16.4,
+          "seats": 3,
+          "concejales": [
+            "1. María Antonia González Gallardo",
+            "2. María Dolores Alba Alba",
+            "3. Rafael Jesús Jiménez Chico"
+          ]
+        },
+        {
+          "codigo": "1016490",
+          "siglas": "VOX",
+          "votos": 1424,
+          "votos_p": 16.12,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Luis Pérez Zardain",
+            "2. Javier José Camacho Jarillo",
+            "3. María Luisa Correro Gómez"
+          ]
+        },
+        {
+          "codigo": "1004359",
+          "siglas": "PSOE-A",
+          "votos": 1364,
+          "votos_p": 15.44,
+          "seats": 2,
+          "concejales": [
+            "1. Francisco Ruiz Giráldez",
+            "2. María Noelia Moya Morales"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11035",
+      "provincia": "11",
+      "nombre": "Tarifa",
+      "censo": 13891,
+      "escrutado_p": 100,
+      "abstencion": 4635,
+      "abstencion_p": 33.37,
+      "blancos": 127,
+      "blancos_p": 1.39,
+      "nulos": 105,
+      "nulos_p": 1.13,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 3736,
+          "votos_p": 40.83,
+          "seats": 8
+        },
+        {
+          "codigo": "C014327",
+          "siglas": "PSOE-A",
+          "votos": 3023,
+          "votos_p": 33.03,
+          "seats": 6
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1253,
+          "votos_p": 13.69,
+          "seats": 2
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 867,
+          "votos_p": 9.47,
+          "seats": 1
+        },
+        {
+          "codigo": "C012050",
+          "siglas": "EQUO",
+          "votos": 115,
+          "votos_p": 1.26,
+          "seats": 0
+        },
+        {
+          "codigo": "C014274",
+          "siglas": "P.P.Cr",
+          "votos": 30,
+          "votos_p": 0.33,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11036": {
+    "m19": {
+      "id": "11036",
+      "provincia": "11",
+      "nombre": "Torre Alháquime",
+      "censo": 688,
+      "escrutado_p": 100,
+      "abstencion": 154,
+      "abstencion_p": 22.38,
+      "blancos": 13,
+      "blancos_p": 2.43,
+      "nulos": 0,
+      "nulos_p": 0,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "1027092",
+          "siglas": "A.A.",
+          "votos": 186,
+          "votos_p": 34.83,
+          "seats": 3,
+          "concejales": [
+            "1. Francisco Bustillos Gómez",
+            "2. Fatima Peña Osorio",
+            "3. Ana Fernández Arqueros"
+          ]
+        },
+        {
+          "codigo": "1028290",
+          "siglas": "PSOE-A",
+          "votos": 169,
+          "votos_p": 31.65,
+          "seats": 2,
+          "concejales": [
+            "1. Pedro Barroso Salas",
+            "2. María Dolores Ruiz Carreño"
+          ]
+        },
+        {
+          "codigo": "1016493",
+          "siglas": "PP",
+          "votos": 166,
+          "votos_p": 31.09,
+          "seats": 2,
+          "concejales": [
+            "1. Javier Galindo Moreno",
+            "2. Francisco Manuel Mejias Barroso"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11036",
+      "provincia": "11",
+      "nombre": "Torre Alháquime",
+      "censo": 702,
+      "escrutado_p": 100,
+      "abstencion": 100,
+      "abstencion_p": 14.25,
+      "blancos": 15,
+      "blancos_p": 2.52,
+      "nulos": 7,
+      "nulos_p": 1.16,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 279,
+          "votos_p": 46.89,
+          "seats": 4
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 190,
+          "votos_p": 31.93,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 111,
+          "votos_p": 18.66,
+          "seats": 1
+        }
+      ]
+    }
+  },
+  "11037": {
+    "m19": {
+      "id": "11037",
+      "provincia": "11",
+      "nombre": "Trebujena",
+      "censo": 5650,
+      "escrutado_p": 67.24,
+      "abstencion": 818,
+      "abstencion_p": 21.53,
+      "blancos": 32,
+      "blancos_p": 1.1,
+      "nulos": 67,
+      "nulos_p": 2.25,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1009279",
+          "siglas": "PSOE-A",
+          "votos": 749,
+          "votos_p": 25.7,
+          "seats": 4,
+          "concejales": [
+            "1. Miguel Guerra Aguilar",
+            "2. Virginia Fernández Luza",
+            "3. Juan Herrera Cala",
+            "4. María García Sánchez (independiente)"
+          ]
+        },
+        {
+          "codigo": "1014854",
+          "siglas": "A.A.",
+          "votos": 725,
+          "votos_p": 24.88,
+          "seats": 3,
+          "concejales": [
+            "1. Matilde Serrano Serrano",
+            "2. Juan Baez Caro",
+            "3. Ana Fernández Riverola"
+          ]
+        },
+        {
+          "codigo": "1015722",
+          "siglas": "PP",
+          "votos": 710,
+          "votos_p": 24.37,
+          "seats": 3,
+          "concejales": [
+            "1. Juan Leal Moreno",
+            "2. Felipe Galan Ceballos",
+            "3. Paloma López Oliveros"
+          ]
+        },
+        {
+          "codigo": "1006330",
+          "siglas": "IU-A",
+          "votos": 698,
+          "votos_p": 23.95,
+          "seats": 3,
+          "concejales": [
+            "1. Jorge David Rodríguez Pérez",
+            "2. Ana Luisa Robredo Caballero",
+            "3. Ramón Galán Oliveros"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11037",
+      "provincia": "11",
+      "nombre": "Trebujena",
+      "censo": 5694,
+      "escrutado_p": 100,
+      "abstencion": 1359,
+      "abstencion_p": 23.87,
+      "blancos": 52,
+      "blancos_p": 1.22,
+      "nulos": 62,
+      "nulos_p": 1.43,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1990,
+          "votos_p": 46.57,
+          "seats": 7
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 1369,
+          "votos_p": 32.04,
+          "seats": 5
+        },
+        {
+          "codigo": "C014575",
+          "siglas": "Sí",
+          "votos": 460,
+          "votos_p": 10.77,
+          "seats": 1
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 203,
+          "votos_p": 4.75,
+          "seats": 0
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 199,
+          "votos_p": 4.66,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11038": {
+    "m19": {
+      "id": "11038",
+      "provincia": "11",
+      "nombre": "Ubrique",
+      "censo": 13612,
+      "escrutado_p": 100,
+      "abstencion": 3369,
+      "abstencion_p": 24.75,
+      "blancos": 114,
+      "blancos_p": 1.13,
+      "nulos": 113,
+      "nulos_p": 1.1,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1016897",
+          "siglas": "Cs",
+          "votos": 1748,
+          "votos_p": 17.26,
+          "seats": 3,
+          "concejales": [
+            "1. Jorge Oliva Pérez",
+            "2. Isabel María Carrasco Romero",
+            "3. José Montiel Pozo"
+          ]
+        },
+        {
+          "codigo": "1000362",
+          "siglas": "PP",
+          "votos": 1686,
+          "votos_p": 16.64,
+          "seats": 3,
+          "concejales": [
+            "1. Manuel Toro Rincon",
+            "2. José Gabriel Calvente Nieto",
+            "3. Rocio Pazo Gómez"
+          ]
+        },
+        {
+          "codigo": "1018728",
+          "siglas": "VOX",
+          "votos": 1675,
+          "votos_p": 16.54,
+          "seats": 3,
+          "concejales": [
+            "1. Josefa Gloria Pérez Puerto",
+            "2. Ismael López Castillo",
+            "3. Pablo Naranjo Domínguez"
+          ]
+        },
+        {
+          "codigo": "1002900",
+          "siglas": "A.A.",
+          "votos": 1654,
+          "votos_p": 16.33,
+          "seats": 3,
+          "concejales": [
+            "1. Antonia María Villa Domínguez",
+            "2. Mercedes Ríos Moreno",
+            "3. Dolores Godoy Gálvez"
+          ]
+        },
+        {
+          "codigo": "1020773",
+          "siglas": "AxSí",
+          "votos": 1644,
+          "votos_p": 16.23,
+          "seats": 3,
+          "concejales": [
+            "1. José Antonio Bautista Piña",
+            "2. Francisco De Asís Gil Ramírez",
+            "3. Macarena Jaén Baquero"
+          ]
+        },
+        {
+          "codigo": "1000289",
+          "siglas": "PSOE-A",
+          "votos": 1609,
+          "votos_p": 15.88,
+          "seats": 2,
+          "concejales": [
+            "1. Isabel Gómez García",
+            "2. Manuel Ángel Chacón González"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11038",
+      "provincia": "11",
+      "nombre": "Ubrique",
+      "censo": 13862,
+      "escrutado_p": 100,
+      "abstencion": 4419,
+      "abstencion_p": 31.88,
+      "blancos": 128,
+      "blancos_p": 1.38,
+      "nulos": 198,
+      "nulos_p": 2.1,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 4178,
+          "votos_p": 45.19,
+          "seats": 9
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 2753,
+          "votos_p": 29.78,
+          "seats": 5
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 1223,
+          "votos_p": 13.23,
+          "seats": 2
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 522,
+          "votos_p": 5.65,
+          "seats": 1
+        },
+        {
+          "codigo": "C010523",
+          "siglas": "AICU",
+          "votos": 441,
+          "votos_p": 4.77,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11039": {
+    "m19": {
+      "id": "11039",
+      "provincia": "11",
+      "nombre": "Vejer de la Frontera",
+      "censo": 10141,
+      "escrutado_p": 93.85,
+      "abstencion": 2384,
+      "abstencion_p": 25.05,
+      "blancos": 116,
+      "blancos_p": 1.65,
+      "nulos": 121,
+      "nulos_p": 1.7,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1019123",
+          "siglas": "Cs",
+          "votos": 1450,
+          "votos_p": 20.68,
+          "seats": 4,
+          "concejales": [
+            "1. Francisco José Segovia Segovia",
+            "2. Francisca Reina Pérez",
+            "3. Daniel Rendon Tello",
+            "4. Gonzalo Gallardo Corrales"
+          ]
+        },
+        {
+          "codigo": "1002944",
+          "siglas": "PP",
+          "votos": 1403,
+          "votos_p": 20.01,
+          "seats": 4,
+          "concejales": [
+            "1. José Ortiz Galván",
+            "2. Francisca Sánchez Galván",
+            "3. Francisco Manuel Flor Lara",
+            "4. Ana Isabel Sánchez Loaiza"
+          ]
+        },
+        {
+          "codigo": "1004675",
+          "siglas": "PSOE-A",
+          "votos": 1399,
+          "votos_p": 19.95,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio González Mellado",
+            "2. Dolores Davila Pérez",
+            "3. José Ligero Sánchez"
+          ]
+        },
+        {
+          "codigo": "1020838",
+          "siglas": "IU-A",
+          "votos": 1330,
+          "votos_p": 18.97,
+          "seats": 3,
+          "concejales": [
+            "1. Rocio Bello Romera",
+            "2. Isabel María Pérez Chirino",
+            "3. Francisco González Gómez"
+          ]
+        },
+        {
+          "codigo": "1004978",
+          "siglas": "A.A.",
+          "votos": 1314,
+          "votos_p": 18.74,
+          "seats": 3,
+          "concejales": [
+            "1. Javier Tallo Niño",
+            "2. Mara Alborch López",
+            "3. Francisco Gallardo Salado"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11039",
+      "provincia": "11",
+      "nombre": "Vejer de la Frontera",
+      "censo": 10212,
+      "escrutado_p": 100,
+      "abstencion": 3497,
+      "abstencion_p": 34.24,
+      "blancos": 104,
+      "blancos_p": 1.56,
+      "nulos": 68,
+      "nulos_p": 1.01,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 3677,
+          "votos_p": 55.32,
+          "seats": 10
+        },
+        {
+          "codigo": "C014321",
+          "siglas": "PSOE-A",
+          "votos": 2276,
+          "votos_p": 34.24,
+          "seats": 6
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 492,
+          "votos_p": 7.4,
+          "seats": 1
+        },
+        {
+          "codigo": "C014098",
+          "siglas": "PA",
+          "votos": 98,
+          "votos_p": 1.47,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11040": {
+    "m19": {
+      "id": "11040",
+      "provincia": "11",
+      "nombre": "Villaluenga del Rosario",
+      "censo": 397,
+      "escrutado_p": 100,
+      "abstencion": 98,
+      "abstencion_p": 24.69,
+      "blancos": 1,
+      "blancos_p": 0.33,
+      "nulos": 0,
+      "nulos_p": 0,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "1016088",
+          "siglas": "A.A.",
+          "votos": 102,
+          "votos_p": 34.11,
+          "seats": 3,
+          "concejales": [
+            "1. María Adela Fernández Jiménez",
+            "2. José Luis Márquez Fernández",
+            "3. Beltrán Gómez Vela"
+          ]
+        },
+        {
+          "codigo": "1000346",
+          "siglas": "PSOE-A",
+          "votos": 98,
+          "votos_p": 32.78,
+          "seats": 2,
+          "concejales": [
+            "1. Alfonso Carlos Moscoso González",
+            "2. María Antonia García Moreno"
+          ]
+        },
+        {
+          "codigo": "1016292",
+          "siglas": "PP",
+          "votos": 98,
+          "votos_p": 32.78,
+          "seats": 2,
+          "concejales": [
+            "1. Ángel Francisco Fernández Salas",
+            "2. Antonio Sellez Pérez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11040",
+      "provincia": "11",
+      "nombre": "Villaluenga del Rosario",
+      "censo": 409,
+      "escrutado_p": 100,
+      "abstencion": 63,
+      "abstencion_p": 15.4,
+      "blancos": 7,
+      "blancos_p": 2.06,
+      "nulos": 7,
+      "nulos_p": 2.02,
+      "seats": 7,
+      "partidos": [
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 232,
+          "votos_p": 68.44,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 57,
+          "votos_p": 16.81,
+          "seats": 1
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 43,
+          "votos_p": 12.68,
+          "seats": 1
+        }
+      ]
+    }
+  },
+  "11041": {
+    "m19": {
+      "id": "11041",
+      "provincia": "11",
+      "nombre": "Villamartín",
+      "censo": 9859,
+      "escrutado_p": 100,
+      "abstencion": 2235,
+      "abstencion_p": 22.67,
+      "blancos": 94,
+      "blancos_p": 1.25,
+      "nulos": 125,
+      "nulos_p": 1.64,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "1021258",
+          "siglas": "PP",
+          "votos": 1926,
+          "votos_p": 25.68,
+          "seats": 5,
+          "concejales": [
+            "1. Juan Pedro Perea García",
+            "2. Estefania Zarzuela Morales",
+            "3. José Chacón Vega",
+            "4. José Andres Barragan Sánchez",
+            "5. Fatima Berenjeno García"
+          ]
+        },
+        {
+          "codigo": "1021127",
+          "siglas": "PSOE-A",
+          "votos": 1837,
+          "votos_p": 24.5,
+          "seats": 4,
+          "concejales": [
+            "1. Diego José López Fernández",
+            "2. María Del Carmen Giron Montes",
+            "3. Diego Vázquez Perea",
+            "4. Joana Cantalejo Andrade"
+          ]
+        },
+        {
+          "codigo": "1021208",
+          "siglas": "A.A.",
+          "votos": 1828,
+          "votos_p": 24.38,
+          "seats": 4,
+          "concejales": [
+            "1. Francisco Salvador García Jiménez",
+            "2. María Del Carmen Lozano Chacón",
+            "3. Miguel Campos Estrada",
+            "4. Ana María García Cadenas"
+          ]
+        },
+        {
+          "codigo": "1021368",
+          "siglas": "AxSí",
+          "votos": 1814,
+          "votos_p": 24.19,
+          "seats": 4,
+          "concejales": [
+            "1. Juan Luis Morales Gallardo",
+            "2. Susana Toro Troya",
+            "3. Ernesto Rodríguez Domínguez",
+            "4. Antonia Viruel Orozco"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11041",
+      "provincia": "11",
+      "nombre": "Villamartín",
+      "censo": 9881,
+      "escrutado_p": 100,
+      "abstencion": 3152,
+      "abstencion_p": 31.9,
+      "blancos": 59,
+      "blancos_p": 0.88,
+      "nulos": 51,
+      "nulos_p": 0.76,
+      "seats": 17,
+      "partidos": [
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 3574,
+          "votos_p": 53.52,
+          "seats": 10
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 1800,
+          "votos_p": 26.95,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 542,
+          "votos_p": 8.12,
+          "seats": 1
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 440,
+          "votos_p": 6.59,
+          "seats": 1
+        },
+        {
+          "codigo": "C015068",
+          "siglas": "UNID@S",
+          "votos": 168,
+          "votos_p": 2.52,
+          "seats": 0
+        },
+        {
+          "codigo": "C012376",
+          "siglas": "GANEMOS",
+          "votos": 95,
+          "votos_p": 1.42,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11042": {
+    "m19": {
+      "id": "11042",
+      "provincia": "11",
+      "nombre": "Zahara",
+      "censo": 1157,
+      "escrutado_p": 100,
+      "abstencion": 260,
+      "abstencion_p": 22.47,
+      "blancos": 16,
+      "blancos_p": 1.81,
+      "nulos": 12,
+      "nulos_p": 1.34,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "1020499",
+          "siglas": "PP",
+          "votos": 309,
+          "votos_p": 34.92,
+          "seats": 3,
+          "concejales": [
+            "1. Pedro Ramírez Aguilar",
+            "2. Manuel Jesús Aguilar García",
+            "3. Inmaculada Atienza Heredia"
+          ]
+        },
+        {
+          "codigo": "1027153",
+          "siglas": "A.A.",
+          "votos": 289,
+          "votos_p": 32.66,
+          "seats": 3,
+          "concejales": [
+            "1. Yolanda Rapela De La Rosa",
+            "2. Nadia Villaverde Tena",
+            "3. José Antonio García Quiros Aragón"
+          ]
+        },
+        {
+          "codigo": "1020485",
+          "siglas": "PSOE-A",
+          "votos": 271,
+          "votos_p": 30.62,
+          "seats": 3,
+          "concejales": [
+            "1. Santiago Galvan Gómez",
+            "2. María Asuncion Benítez Caballero",
+            "3. Raúl Galvan Vázquez"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11042",
+      "provincia": "11",
+      "nombre": "Zahara",
+      "censo": 1201,
+      "escrutado_p": 100,
+      "abstencion": 261,
+      "abstencion_p": 21.73,
+      "blancos": 17,
+      "blancos_p": 1.84,
+      "nulos": 18,
+      "nulos_p": 1.91,
+      "seats": 9,
+      "partidos": [
+        {
+          "codigo": "C014330",
+          "siglas": "PSOE-A",
+          "votos": 522,
+          "votos_p": 56.62,
+          "seats": 6
+        },
+        {
+          "codigo": "C014098",
+          "siglas": "PA",
+          "votos": 253,
+          "votos_p": 27.44,
+          "seats": 2
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 113,
+          "votos_p": 12.26,
+          "seats": 1
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 17,
+          "votos_p": 1.84,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11901": {
+    "m19": {
+      "id": "11901",
+      "provincia": "11",
+      "nombre": "Benalup-Casas Viejas",
+      "censo": 5720,
+      "escrutado_p": 100,
+      "abstencion": 1364,
+      "abstencion_p": 23.85,
+      "blancos": 83,
+      "blancos_p": 1.94,
+      "nulos": 82,
+      "nulos_p": 1.88,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "1009686",
+          "siglas": "PP",
+          "votos": 857,
+          "votos_p": 20.05,
+          "seats": 3,
+          "concejales": [
+            "1. Leónardo Ruiz Estudillo",
+            "2. Herminia Moguel Gallardo",
+            "3. María Del Amor García Vargas"
+          ]
+        },
+        {
+          "codigo": "1006838",
+          "siglas": "PSOE-A",
+          "votos": 848,
+          "votos_p": 19.84,
+          "seats": 3,
+          "concejales": [
+            "1. Antonio Cepero Barberan",
+            "2. María José Tirado García",
+            "3. José Julián Martínez Gracia"
+          ]
+        },
+        {
+          "codigo": "1016040",
+          "siglas": "IU-A",
+          "votos": 837,
+          "votos_p": 19.58,
+          "seats": 3,
+          "concejales": [
+            "1. María José Grimaldi González",
+            "2. Andres Jesús García Mateo",
+            "3. Gemma Duran Cals"
+          ]
+        },
+        {
+          "codigo": "1017855",
+          "siglas": "Cs",
+          "votos": 825,
+          "votos_p": 19.3,
+          "seats": 2,
+          "concejales": [
+            "1. Miguel Ángel García Quiros",
+            "2. Ana Davila Pérez"
+          ]
+        },
+        {
+          "codigo": "1016066",
+          "siglas": "AxSí",
+          "votos": 824,
+          "votos_p": 19.28,
+          "seats": 2,
+          "concejales": [
+            "1. Manuel José Moguel Pérez",
+            "2. Sonia Escamez González"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11901",
+      "provincia": "11",
+      "nombre": "Benalup-Casas Viejas",
+      "censo": 5660,
+      "escrutado_p": 100,
+      "abstencion": 1540,
+      "abstencion_p": 27.21,
+      "blancos": 97,
+      "blancos_p": 2.39,
+      "nulos": 59,
+      "nulos_p": 1.43,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C014334",
+          "siglas": "PSOE-A",
+          "votos": 1754,
+          "votos_p": 43.19,
+          "seats": 6
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 1540,
+          "votos_p": 37.92,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 644,
+          "votos_p": 15.86,
+          "seats": 2
+        },
+        {
+          "codigo": "C014100",
+          "siglas": "PA",
+          "votos": 26,
+          "votos_p": 0.64,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11902": {
+    "m19": {
+      "id": "11902",
+      "provincia": "11",
+      "nombre": "San José del Valle",
+      "censo": 3661,
+      "escrutado_p": 100,
+      "abstencion": 866,
+      "abstencion_p": 23.65,
+      "blancos": 31,
+      "blancos_p": 1.14,
+      "nulos": 78,
+      "nulos_p": 2.79,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1027163",
+          "siglas": "A.A.",
+          "votos": 413,
+          "votos_p": 15.2,
+          "seats": 2,
+          "concejales": [
+            "1. Mario Diego Carbayo",
+            "2. Cristina Domínguez Rodríguez"
+          ]
+        },
+        {
+          "codigo": "1005274",
+          "siglas": "PP",
+          "votos": 394,
+          "votos_p": 14.5,
+          "seats": 2,
+          "concejales": [
+            "1. Francisco José Moreno García",
+            "2. María Patricia Rosado Salas"
+          ]
+        },
+        {
+          "codigo": "1015337",
+          "siglas": "Cs",
+          "votos": 391,
+          "votos_p": 14.39,
+          "seats": 2,
+          "concejales": [
+            "1. María Del Carmen Román Ballesteros",
+            "2. Juana María Bermejo Castro"
+          ]
+        },
+        {
+          "codigo": "1000148",
+          "siglas": "PSOE-A",
+          "votos": 383,
+          "votos_p": 14.1,
+          "seats": 2,
+          "concejales": [
+            "1. Antonio González Carretero",
+            "2. Vanessa Pérez Macías"
+          ]
+        },
+        {
+          "codigo": "1027291",
+          "siglas": "IP",
+          "votos": 370,
+          "votos_p": 13.62,
+          "seats": 1,
+          "concejales": [
+            "1. Joaquín José Soto Barrera"
+          ]
+        },
+        {
+          "codigo": "1005429",
+          "siglas": "UVA",
+          "votos": 368,
+          "votos_p": 13.54,
+          "seats": 1,
+          "concejales": [
+            "1. José Manuel Moreno Puerto"
+          ]
+        },
+        {
+          "codigo": "1026877",
+          "siglas": "VOX",
+          "votos": 367,
+          "votos_p": 13.51,
+          "seats": 1,
+          "concejales": [
+            "1. Salvador Pineda Rojas"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11902",
+      "provincia": "11",
+      "nombre": "San José del Valle",
+      "censo": 3622,
+      "escrutado_p": 100,
+      "abstencion": 1224,
+      "abstencion_p": 33.79,
+      "blancos": 46,
+      "blancos_p": 1.94,
+      "nulos": 25,
+      "nulos_p": 1.04,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "C014337",
+          "siglas": "PSOE-A",
+          "votos": 1019,
+          "votos_p": 42.94,
+          "seats": 5
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 941,
+          "votos_p": 39.65,
+          "seats": 5
+        },
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 192,
+          "votos_p": 8.09,
+          "seats": 1
+        },
+        {
+          "codigo": "C015174",
+          "siglas": "UVA",
+          "votos": 175,
+          "votos_p": 7.37,
+          "seats": 0
+        }
+      ]
+    }
+  },
+  "11903": {
+    "m19": {
+      "id": "11903",
+      "provincia": "11",
+      "nombre": "San Martín del Tesorillo",
+      "censo": 1837,
+      "escrutado_p": 100,
+      "abstencion": 474,
+      "abstencion_p": 25.8,
+      "blancos": 10,
+      "blancos_p": 0.74,
+      "nulos": 15,
+      "nulos_p": 1.1,
+      "seats": 11,
+      "partidos": [
+        {
+          "codigo": "1015796",
+          "siglas": "PSOE-A",
+          "votos": 478,
+          "votos_p": 35.46,
+          "seats": 4,
+          "concejales": [
+            "1. Salvador Jesús Solis Trujillo",
+            "2. María Luz Ocaña Trujillo",
+            "3. Juan Riscos Sánchez",
+            "4. María Rosario Calle Vázquez"
+          ]
+        },
+        {
+          "codigo": "1015633",
+          "siglas": "IU-A",
+          "votos": 433,
+          "votos_p": 32.12,
+          "seats": 4,
+          "concejales": [
+            "1. Jesús Fernández Rey",
+            "2. Margarita Fernández Vázquez",
+            "3. Roberto García López",
+            "4. Daniel Cerdán Valadez"
+          ]
+        },
+        {
+          "codigo": "1015891",
+          "siglas": "PP",
+          "votos": 427,
+          "votos_p": 31.68,
+          "seats": 3,
+          "concejales": [
+            "1. María José Pro Benítez",
+            "2. Manuel García Lobato",
+            "3. María Carmen Domínguez Hierro"
+          ]
+        }
+      ]
+    },
+    "m15": {
+      "id": "11903",
+      "provincia": "11",
+      "nombre": "San Martín del Tesorillo",
+      "censo": 5694,
+      "escrutado_p": 100,
+      "abstencion": 1359,
+      "abstencion_p": 23.87,
+      "blancos": 52,
+      "blancos_p": 1.22,
+      "nulos": 62,
+      "nulos_p": 1.43,
+      "seats": 13,
+      "partidos": [
+        {
+          "codigo": "C013465",
+          "siglas": "IULV-CA",
+          "votos": 1990,
+          "votos_p": 46.57,
+          "seats": 7
+        },
+        {
+          "codigo": "C014328",
+          "siglas": "PSOE-A",
+          "votos": 1369,
+          "votos_p": 32.04,
+          "seats": 5
+        },
+        {
+          "codigo": "C014575",
+          "siglas": "Sí",
+          "votos": 460,
+          "votos_p": 10.77,
+          "seats": 1
+        },
+        {
+          "codigo": "C014099",
+          "siglas": "PA",
+          "votos": 203,
+          "votos_p": 4.75,
+          "seats": 0
+        },
+        {
+          "codigo": "C014252",
+          "siglas": "PP",
+          "votos": 199,
+          "votos_p": 4.66,
+          "seats": 0
+        }
+      ]
+    }
+  }
+}
